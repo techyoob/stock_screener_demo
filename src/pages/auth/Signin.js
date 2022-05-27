@@ -11,7 +11,6 @@ import { Link, useNavigate, useLocation } from 'react-router-dom';
 
 // Application
 import './auth.css'
-import authBackground from '../../assets/svg/abstractThree.svg'
 import useAuth from '../../services/useAuth';
 import queryHandler from '../../services/queryHandler';
 
@@ -31,8 +30,6 @@ const Signin = () => {
 
     const [email, setEmail] = useState('techyoob649@gmail.com');
     const [password, setPwd] = useState('Qwerty$$22');
-    // const [email, setEmail] = useState('');
-    // const [password, setPwd] = useState('');
     const [errMsg, setErrMsg] = useState('');
 
     useEffect(() => {
