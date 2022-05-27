@@ -1,0 +1,49 @@
+
+
+
+
+
+
+/* 
+  main background: #2c3843
+  main foreground: #657884
+  pop ups background: #657884
+  list row item color: old #425563  new #4e5b64
+  list row item hover color: #425563
+  primary text color: #
+  secondary text color: #
+  bull text color: #
+  bear text color: #
+  search bar and buttons : #373b4f
+  highlighted ui elements: #4489f0
+  hover color: #2f5555
+  active color: #7a5747
+  main text color: #a7a7a7
+  selected/highligted color: #ffffff
+
+*/
+
+
+/* .main-layout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    min-height: 744px; 
+    min-width: 1280px;
+    padding: 4px;
+    color: #9bc5b1;
+  } */
+
+
+
+
+
+  .main-layout {
+    min-width: 350px;
+    min-height: 750px;
+    width: 100vw;
+    height: 100vh;
+  }

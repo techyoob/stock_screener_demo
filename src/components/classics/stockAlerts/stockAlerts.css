@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+.stock-alerts-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+
+.no-alert-container {
+    height: 150px;
+    width: 200px;
+}
+
+/* .stock-alerts-carousel {
+
+} */
+
+
+
+
+
+
+
+
+
+/****************************************************************
+*               stock alerts Carousel - classics
+*****************************************************************/
+
+
+
+.stock-alerts-carousel .rec.rec-arrow {
+    color: #a7a7a7;
+    border: 1px solid #6b6b6b;
+    background-color: #6b6b6b25;
+}
+
+
+.stock-alerts-carousel .rec.rec-arrow:hover {
+    color: #a7a7a7;
+    background-color: #00ffdd25;
+}
+
+
+.stock-alerts-carousel .rec.rec-arrow:focus {
+    color: #a7a7a7;
+    background-color: #00ffdd25;
+}
+
+
+
+
+
+.stock-alerts-carousel .rec-slider-container {
+    overflow: hidden;
+}
+
+
+.stock-alerts-carousel .rec.rec-swipable {
+}
+
+.stock-alerts-carousel .rec.rec-carousel-item {
+    overflow: hidden;
+    max-width: 300px;
+}
+.stock-alerts-carousel .rec.rec-item-wrapper{
+    padding: 0px;
+    justify-content: flex-start;
+    width: 60%;
+}
+
+
+
+.stock-alerts-carousel .rec.rec-pagination{
+    margin-top: 0px;
+}
+
+.stock-alerts-carousel .rec.rec-dot {
+    border: 1px solid #6b6b6b;
+    box-shadow: 0 0 1px 2px #a7a7a752;
+}
+.stock-alerts-carousel .rec.rec-dot:hover {
+    border: 1px solid #6b6b6b;
+    box-shadow: 0 0 1px 2px #a7a7a752;
+}
+.stock-alerts-carousel .rec.rec-dot:focus {
+    border: 1px solid #6b6b6b;
+    box-shadow: 0 0 1px 2px #a7a7a752;
+}
+
+.stock-alerts-carousel .rec.rec-dot_active {
+    background-color: #53a2a9dc;
+    border: 1px solid #1c8072;
+    box-shadow: 0 0 1px 2px #a7a7a752;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************************************
+*
+*               alert components 
+*
+***********************************************************/
+
+
+.stock-price-container{
+    width:100%;
+    height: 100%;
+}

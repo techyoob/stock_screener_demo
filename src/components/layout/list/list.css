@@ -1,0 +1,237 @@
+
+
+
+/* .table-elements {
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+.table-elements::-webkit-scrollbar { 
+    display: none; 
+}
+ */
+
+
+
+
+.list-container {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 85%;
+    width: 100%;
+    min-width: 350px;
+    text-transform: capitalize;
+    font-weight: bold;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+    overflow-x: auto;
+    overflow-y: hidden;
+    background-color: #ff63474b;
+}
+
+.list-scrolled-section {
+    width: 100%;
+    height: 100%;
+    min-width: 750px;
+    overflow: hidden;
+}
+
+.list-container::-webkit-scrollbar { 
+    display: none;  /* Chrome Safari */
+}
+
+
+.list-header {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    font-size: 14px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+.list-header span{
+    display: flex;
+}
+
+.list-body {
+    height: 100%;
+    width: 100%;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.list-body::-webkit-scrollbar { 
+    display: none;  /* Chrome Safari */
+}
+
+.list-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 80px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: #485365;
+    background-image: linear-gradient(to right top, #3b4551, #3d4855, #3f4a58, #424d5c, #445060);
+    overflow: hidden;
+
+}
+.list-row:hover {
+    box-shadow: 0px 0px 4px 2px #6d6e5c;
+}
+.list-row:active {
+    background-color: #7a5747;
+}
+
+.list-row span{
+    display: flex;
+}
+
+
+/* .list-footer {
+
+    background-color: violet;
+
+} */
+/* .updated-at-container {
+ 
+} */
+.refresh-list-data-button {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 18px;
+    font-size: 18px;
+}
+.refresh-list-data-button:hover {
+    color: #6d6e5c;
+}
+
+
+.refresh-list-data-button:active {
+    color: #a781806e;
+}
+/* .pagination-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 50%;
+    height: 100%;
+    color: #a7a7a7;
+} */
+
+
+
+
+
+
+
+[class^="list-column-"] {
+    width: 100px;
+}
+
+/* .list-column- {
+    width: 100px;
+    background-color: #9db86d;
+} */
+.list-column-stock {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 250px;
+    padding-left: 10px;
+}
+.stock-ticker {
+    display: flex;
+    align-items: flex-end;
+    color: white;
+    height: 50%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.stock-company {
+    height: 50%;
+    font-size: 15px;
+}
+
+
+.list-column-last {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100%;
+}
+.stock-last-price {
+    font-size: 15px;
+}
+/* .stock-last-price span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    width: 70%;
+    height: 50%;
+    border-radius: 20px;
+} */
+
+.list-column-change {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100px;
+}
+.list-column-change-percentage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+.list-column-market-cap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+
+
+.change-container {
+    display: flex;
+    justify-content: center;
+}
+
+.change-container span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    height: 50%;
+    border-radius: 20px;
+}
+
+
+/**********************************************
+        GASS comon list column components
+***********************************************/
+
+/* .row-per-page-select {
+    
+
+} */
+
+
+
+
+
+/* {column.format && typeof value === "number"
+    ? column.format(value)
+    : value} */

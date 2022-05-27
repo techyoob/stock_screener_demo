@@ -1,0 +1,75 @@
+
+
+
+
+
+
+.main-auth-screen {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    background: rgb(72,77,74);
+    /* background: linear-gradient(145deg, rgba(72,77,74,1) 40%, rgba(168,87,81,1) 20%, rgba(24,29,35,1) 60%); */
+    /* background: linear-gradient(135deg, #161a18b6 20%, #192637 50%) */
+    background: linear-gradient(135deg, #161a18b6 50%, #192637 50%);
+}
+
+.auth-screen-logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+
+}
+.auth-component-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+}
+
+.sign-in-page-continer {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0.30turn, #ffffff 50%, #00509b 50%);
+    background-size:cover;
+}
+
+.sign-in-box-container, 
+.sign-up-box-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+}
+
+input[type="text"],
+input[type="password"],
+button,
+textarea {
+  font-family: 'Nunito', sans-serif;
+  font-size: 22px;
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+}
+.sign-in-box-container h1, .sign-up-box-container h1{
+    align-self: center;
+}
+.sign-in-box-container input, .sign-up-box-container input{
+    border: none;
+    background-color: #ffff002a;
+    color: #a7a7a7;
+}
+.sign-in-box-container button, .sign-up-box-container button{
+    background-color: #c5a40f;
+    border: none;
+}

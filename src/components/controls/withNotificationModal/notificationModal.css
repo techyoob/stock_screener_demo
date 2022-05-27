@@ -1,0 +1,43 @@
+
+
+
+
+
+.notification-modal-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #505764;
+    border: 1px solid #c7a79a;
+    border-radius: 50%;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.notification-modal-button:hover{ 
+    border: 3px solid #2f5555;
+    color: #2f5555;
+}
+.notification-modal-button:active{ 
+    background-color: #7a5747;
+}
+  
+  
+
+
+
+.notification-modal-container {
+    display: flex;
+    z-index: 3;
+}
+
+
+
+
+.notification-modal-close {
+
+}
+
+
+
+

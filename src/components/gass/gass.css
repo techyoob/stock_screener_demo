@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+.company-logo-circled-frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: #25242470;
+    margin-top: 10px;
+}

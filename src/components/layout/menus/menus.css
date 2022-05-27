@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: "Rabsy";
+    src: local("Rabsy"),
+     url("../../../fonts/logo/Rabsy.ttf") format("truetype");
+    font-weight: bold;
+}
+
+
+
+
+
+.gass-logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 18%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.menu-options-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-transform: capitalize;
+    font-weight:600;
+    width: 100%;
+    height: 100%;
+}
+
+.menu-option-container, .menu-option-container-selected {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    padding-left: 15px;
+    font-weight:600;
+    /* font-size: clamp(0.2rem, 14px, 2rem); */
+    font-size: 18px;
+    margin-top: 10px;
+}
+.menu-option-container span, .menu-option-container-selected span{
+    margin-left: 15px;
+}
+.menu-option-container:hover{
+    background-color: #2f5555;
+}
+.menu-option-container:active{
+    background-color: #7a5747;
+} 
+.menu-option-container-selected{
+    background-color: #423942;
+    border-left: 15px solid #aa5377;
+    color: #aa5377;
+}
+.menu-option-container span, .menu-option-container-selected span{
+    margin-right: 15px;
+    font-size: 25px;
+    
+}
+
+.menu-foot-container {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    padding: 0px;
+}
+
+
+.logout-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    font-size: 12px;
+    border-radius: 5px;
+}
+.logout-button:hover{
+    background-color: #2f5555;
+    color: #ffffff;
+    font-weight: bold;
+}
+.logout-button:active{
+    background-color: #7a5747;
+    font-weight: bold;
+}
+.logout-button span{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+
+
+
+
+/* 
+.screener-menu-container {
+
+}
+ */
+
+
+
+.user-menu-item-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+}
+.user-menu-item-container span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    width: 50px;
+    height: 100%;
+}
+.user-menu-item-container:hover {
+    background-color: teal;
+}

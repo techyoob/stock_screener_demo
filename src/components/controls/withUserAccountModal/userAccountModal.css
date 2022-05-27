@@ -1,0 +1,54 @@
+
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #000;
+    opacity: 0.5;
+  }
+  
+
+
+
+.user-account-modal-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #505764;
+    border: 1px solid #c7a79a;
+    border-radius: 50%;
+    font-size: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.user-account-modal-button:hover{ 
+    border: 3px solid #2f5555;
+    color: #2f5555;
+}
+.user-account-modal-button:active{ 
+    background-color: #7a5747;
+}
+  
+  
+.user-account-name {
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+
+.user-account-modal-container {
+}
+
+
+
+
+.user-account-modal-close {
+
+}
