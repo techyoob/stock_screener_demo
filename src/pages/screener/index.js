@@ -95,7 +95,7 @@ const useStyles = ({isLargeScreen, isMidScreen, isSmallScreen}) => makeStyles(th
 
     const classes = useStyles({isSmallScreen, isMidScreen, isLargeScreen})();
 
-    const [selectedPage, setSelectedPage] = useState(menuItems[2])
+    const [selectedPage, setSelectedPage] = useState(menuItems[0])
     const [stock, setStock] = useState({
         name:"",
         ticker:"AAPL"

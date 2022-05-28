@@ -1,0 +1,4220 @@
+[
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 4.5400085,
+            "change_percentage": 3.1576078,
+            "last": 148.32,
+            "market_cap": 2400588922880.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.256Z"
+            }
+        },
+        "profile": {
+            "company": "Apple Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.257Z"
+            }
+        },
+        "ticker": "AAPL",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.257Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 5.6299133,
+            "change_percentage": 2.1173048,
+            "last": 271.5299,
+            "market_cap": 2030780284928.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.257Z"
+            }
+        },
+        "profile": {
+            "company": "Microsoft Corporation",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.257Z"
+            }
+        },
+        "ticker": "MSFT",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.257Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 83.60986,
+            "change_percentage": 3.8782783,
+            "last": 2239.46,
+            "market_cap": 1447719075840.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.257Z"
+            }
+        },
+        "profile": {
+            "company": "Alphabet Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.257Z"
+            }
+        },
+        "ticker": "GOOGL",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.257Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 77.59009,
+            "change_percentage": 3.5823157,
+            "last": 2243.51,
+            "market_cap": 1443593191424.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.257Z"
+            }
+        },
+        "profile": {
+            "company": "Alphabet Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.257Z"
+            }
+        },
+        "ticker": "GOOG",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.257Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 0.0,
+            "change_percentage": 0.0,
+            "last": 765.0,
+            "market_cap": 1284389076992.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "ticker": "USB-PA",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.258Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 40.44507,
+            "change_percentage": 1.8205788,
+            "last": 2261.995,
+            "market_cap": 1150722113536.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "profile": {
+            "company": "Amazon.com, Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "ticker": "AMZN",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.258Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 2.0,
+            "change_percentage": 2.0665426,
+            "last": 98.78,
+            "market_cap": 836493705216.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "ticker": "VTSAX",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.258Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 42.545044,
+            "change_percentage": 6.01148,
+            "last": 750.275,
+            "market_cap": 777292414976.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "profile": {
+            "company": "Tesla, Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "ticker": "TSLA",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.258Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -9714.375,
+            "change_percentage": -1.9651083,
+            "last": 484628.62,
+            "market_cap": 713160130560.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "ticker": "BRK-A",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.258Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -6.194977,
+            "change_percentage": -1.8956478,
+            "last": 320.605,
+            "market_cap": 708966678528.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "profile": {
+            "company": "Berkshire Hathaway Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.258Z"
+            }
+        },
+        "ticker": "BRK-B",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.258Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 2.0499878,
+            "change_percentage": 1.0697634,
+            "last": 193.68,
+            "market_cap": 524160008192.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "profile": {
+            "company": "Meta Platforms, Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "ticker": "FB",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.259Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -2.5,
+            "change_percentage": -2.604438,
+            "last": 93.49,
+            "market_cap": 484820451328.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "profile": {
+            "company": "Taiwan Semiconductor Manufacturing Company Limited",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "ticker": "TSM",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.259Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -6.57251,
+            "change_percentage": -1.2947698,
+            "last": 501.0475,
+            "market_cap": 470458040320.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "profile": {
+            "company": "UnitedHealth Group Incorporated",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "ticker": "UNH",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.259Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -2.647995,
+            "change_percentage": -1.4694756,
+            "last": 177.552,
+            "market_cap": 466894290944.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "profile": {
+            "company": "Johnson & Johnson",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "ticker": "JNJ",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.259Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 7.220001,
+            "change_percentage": 4.0445924,
+            "last": 185.73,
+            "market_cap": 462839152640.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.259Z"
+            }
+        },
+        "profile": {
+            "company": "NVIDIA Corporation",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "ticker": "NVDA",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.260Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -4.100006,
+            "change_percentage": -1.9112465,
+            "last": 210.42,
+            "market_cap": 452800675840.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "profile": {
+            "company": "Visa Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "ticker": "V",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.260Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -1.3334961,
+            "change_percentage": -0.86556935,
+            "last": 152.7265,
+            "market_cap": 420422451200.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "profile": {
+            "company": "Walmart Inc.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "ticker": "WMT",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.260Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -0.5999985,
+            "change_percentage": -0.6543059,
+            "last": 91.1,
+            "market_cap": 384958529536.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "profile": {
+            "company": "Exxon Mobil Corporation",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "ticker": "XOM",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.260Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -1.4300079,
+            "change_percentage": -0.90874934,
+            "last": 155.93,
+            "market_cap": 379319975936.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "profile": {
+            "company": "The Procter & Gamble Company",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.260Z"
+            }
+        },
+        "ticker": "PG",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.260Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -2.469696,
+            "change_percentage": -1.9431126,
+            "last": 124.6303,
+            "market_cap": 366051655680.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.261Z"
+            }
+        },
+        "profile": {
+            "company": "JPMorgan Chase & Co.",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.261Z"
+            }
+        },
+        "ticker": "JPM",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.261Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -6.75,
+            "change_percentage": -1.831651,
+            "last": 361.77,
+            "market_cap": 355915464704.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.261Z"
+            }
+        },
+        "profile": {
+            "company": "Mastercard Incorporated",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.261Z"
+            }
+        },
+        "ticker": "MA",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.261Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": 0.07000732,
+            "change_percentage": 0.04177297,
+            "last": 167.66,
+            "market_cap": 329428434944.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.261Z"
+            }
+        },
+        "profile": {
+            "company": "Chevron Corporation",
+            "updated": {
+                "$date": "2022-05-28T16:42:47.261Z"
+            }
+        },
+        "ticker": "CVX",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.261Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -0.28590012,
+            "change_percentage": -1.1367798,
+            "last": 24.8641,
+            "market_cap": 326162284544.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.261Z"
+            }
+        },
+        "ticker": "JPM-PC",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.261Z"
+        }
+    },
+    {
+        "daily": [],
+        "hourly": [],
+        "price": {
+            "change": -0.3409,
+            "change_percentage": -1.4040362,
+            "last": 23.9391,
+            "market_cap": 318045323264.0,
+            "updated": {
+                "$date": "2022-05-28T16:42:47.261Z"
+            }
+        },
+        "ticker": "JPM-PD",
+        "updated": {
+            "$date": "2022-05-28T16:42:47.261Z"
+        }
+    },
+                {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -10.109985,
+                    "change_percentage": -3.2063637,
+                    "last": 305.2,
+                    "market_cap": 315384528896.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.604Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Home Depot, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "ticker": "HD",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.605Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.97719955,
+                    "change_percentage": -2.5302942,
+                    "last": 37.6428,
+                    "market_cap": 303283535872.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "profile": {
+                    "company": "Bank of America Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "ticker": "BAC",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.605Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.33499908,
+                    "change_percentage": -0.5151454,
+                    "last": 64.695,
+                    "market_cap": 280454758400.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Coca-Cola Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "ticker": "KO",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.605Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.7900085,
+                    "change_percentage": -0.6069883,
+                    "last": 293.11,
+                    "market_cap": 278501392384.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "profile": {
+                    "company": "Eli Lilly and Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "ticker": "LLY",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.605Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.829998,
+                    "change_percentage": -1.6713613,
+                    "last": 48.83,
+                    "market_cap": 275780632576.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "profile": {
+                    "company": "Pfizer Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "ticker": "PFE",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.605Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.2400055,
+                    "change_percentage": 0.15832542,
+                    "last": 151.83,
+                    "market_cap": 268174278656.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.605Z"
+                    }
+                },
+                "profile": {
+                    "company": "AbbVie Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "ticker": "ABBV",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.606Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -4.5,
+                    "change_percentage": -4.437432,
+                    "last": 96.91,
+                    "market_cap": 267841814528.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "profile": {
+                    "company": "Alibaba Group Holding Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "ticker": "BABA",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.606Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.1900024,
+                    "change_percentage": -1.0446866,
+                    "last": 112.72,
+                    "market_cap": 256240746496.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "profile": {
+                    "company": "Novo Nordisk A/S",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "ticker": "NVO",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.606Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.05999947,
+                    "change_percentage": 0.28422296,
+                    "last": 21.17,
+                    "market_cap": 251455143936.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "ticker": "BAC-PE",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.606Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.2486,
+                    "change_percentage": -1.324454,
+                    "last": 18.5214,
+                    "market_cap": 251120549888.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "ticker": "BML-PH",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.606Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.315001,
+                    "change_percentage": -1.67821,
+                    "last": 18.455,
+                    "market_cap": 249203392512.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "ticker": "BML-PG",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.606Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.32999992,
+                    "change_percentage": -1.3095235,
+                    "last": 24.87,
+                    "market_cap": 248579883008.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.606Z"
+                    }
+                },
+                "ticker": "BAC-PB",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.607Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.18999863,
+                    "change_percentage": -0.93549305,
+                    "last": 20.12,
+                    "market_cap": 247902552064.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.607Z"
+                    }
+                },
+                "ticker": "BML-PL",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.607Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.35499954,
+                    "change_percentage": -1.4507542,
+                    "last": 24.115,
+                    "market_cap": 241938563072.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.607Z"
+                    }
+                },
+                "ticker": "BAC-PK",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.607Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.110001,
+                    "change_percentage": -0.4286852,
+                    "last": 25.55,
+                    "market_cap": 241255104512.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.607Z"
+                    }
+                },
+                "ticker": "VZA",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.607Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.4449997,
+                    "change_percentage": -3.5296664,
+                    "last": 66.825,
+                    "market_cap": 241016389632.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.607Z"
+                    }
+                },
+                "profile": {
+                    "company": "BHP Group Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.607Z"
+                    }
+                },
+                "ticker": "BHP",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.607Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -10.02,
+                    "change_percentage": -0.8186141,
+                    "last": 1214.0,
+                    "market_cap": 238757380096.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.607Z"
+                    }
+                },
+                "ticker": "BAC-PL",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.607Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.05130005,
+                    "change_percentage": 0.24963406,
+                    "last": 20.6014,
+                    "market_cap": 238249000960.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.607Z"
+                    }
+                },
+                "ticker": "BML-PJ",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.607Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.8852081,
+                    "change_percentage": -1.6501046,
+                    "last": 171.9648,
+                    "market_cap": 236938264576.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.607Z"
+                    }
+                },
+                "profile": {
+                    "company": "Toyota Motor Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.608Z"
+                    }
+                },
+                "ticker": "TM",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.608Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.27999878,
+                    "change_percentage": 0.16459866,
+                    "last": 170.39,
+                    "market_cap": 235594858496.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.608Z"
+                    }
+                },
+                "profile": {
+                    "company": "PepsiCo, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.612Z"
+                    }
+                },
+                "ticker": "PEP",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.612Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 26.255737,
+                    "change_percentage": 4.768049,
+                    "last": 576.9157,
+                    "market_cap": 235543724032.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.613Z"
+                    }
+                },
+                "profile": {
+                    "company": "Broadcom Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.613Z"
+                    }
+                },
+                "ticker": "AVGO",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.613Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 22.039978,
+                    "change_percentage": 3.9352183,
+                    "last": 582.11,
+                    "market_cap": 234358636544.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.613Z"
+                    }
+                },
+                "profile": {
+                    "company": "ASML Holding N.V.",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.613Z"
+                    }
+                },
+                "ticker": "ASML",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.613Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.5099945,
+                    "change_percentage": -0.5761348,
+                    "last": 88.01,
+                    "market_cap": 222520082432.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.613Z"
+                    }
+                },
+                "profile": {
+                    "company": "Merck & Co., Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.613Z"
+                    }
+                },
+                "ticker": "MRK",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.613Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -7.3200073,
+                    "change_percentage": -1.3002251,
+                    "last": 555.66,
+                    "market_cap": 217506988032.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.613Z"
+                    }
+                },
+                "profile": {
+                    "company": "Thermo Fisher Scientific Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:44:06.613Z"
+                    }
+                },
+                "ticker": "TMO",
+                "updated": {
+                    "$date": "2022-05-28T16:44:06.613Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.125,
+                    "change_percentage": 0.21941373,
+                    "last": 57.095,
+                    "market_cap": 215018635264.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.753Z"
+                    }
+                },
+                "ticker": "SHEL",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.753Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.30000305,
+                    "change_percentage": 0.44977972,
+                    "last": 67.0,
+                    "market_cap": 207628304384.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.753Z"
+                    }
+                },
+                "profile": {
+                    "company": "AstraZeneca PLC",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.753Z"
+                    }
+                },
+                "ticker": "AZN",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.753Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 3.0899963,
+                    "change_percentage": 0.6645296,
+                    "last": 468.08,
+                    "market_cap": 207464284160.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "profile": {
+                    "company": "Costco Wholesale Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "ticker": "COST",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.754Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.3950043,
+                    "change_percentage": -2.0612826,
+                    "last": 113.795,
+                    "market_cap": 207178596352.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Walt Disney Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "ticker": "DIS",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.754Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.35009766,
+                    "change_percentage": -0.7237909,
+                    "last": 48.0199,
+                    "market_cap": 201666297856.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "profile": {
+                    "company": "Verizon Communications Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "ticker": "VZ",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.754Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.9599991,
+                    "change_percentage": -1.6940355,
+                    "last": 113.74,
+                    "market_cap": 201292496896.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "profile": {
+                    "company": "Abbott Laboratories",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "ticker": "ABT",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.754Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 17.389984,
+                    "change_percentage": 4.255992,
+                    "last": 425.99,
+                    "market_cap": 201280274432.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.754Z"
+                    }
+                },
+                "profile": {
+                    "company": "Adobe Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "ticker": "ADBE",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.755Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.2499008,
+                    "change_percentage": -1.6618812,
+                    "last": 73.9601,
+                    "market_cap": 199248510976.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "profile": {
+                    "company": "Oracle Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "ticker": "ORCL",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.755Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.06159973,
+                    "change_percentage": 0.13958697,
+                    "last": 44.1916,
+                    "market_cap": 197978816512.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "profile": {
+                    "company": "Comcast Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "ticker": "CMCSA",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.755Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.0299988,
+                    "change_percentage": -0.0587175,
+                    "last": 51.06,
+                    "market_cap": 196176101376.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "profile": {
+                    "company": "Shell plc",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "ticker": "RDS-B",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.755Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.0699997,
+                    "change_percentage": -0.136959,
+                    "last": 51.04,
+                    "market_cap": 196099260416.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "profile": {
+                    "company": "Shell plc",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "ticker": "RDS-A",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.755Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.225,
+                    "change_percentage": -0.91389114,
+                    "last": 24.395,
+                    "market_cap": 196071636992.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.755Z"
+                    }
+                },
+                "ticker": "WFC-PQ",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.756Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -9.649994,
+                    "change_percentage": -3.0648525,
+                    "last": 305.21,
+                    "market_cap": 193335574528.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "profile": {
+                    "company": "Accenture plc",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "ticker": "ACN",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.756Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.409996,
+                    "change_percentage": -1.5973673,
+                    "last": 86.86,
+                    "market_cap": 192730185728.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "profile": {
+                    "company": "Novartis AG",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "ticker": "NVS",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.756Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.27,
+                    "change_percentage": -1.0273973,
+                    "last": 26.01,
+                    "market_cap": 191722323968.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "ticker": "WFC-PR",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.756Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -4.419998,
+                    "change_percentage": -3.5062654,
+                    "last": 121.64,
+                    "market_cap": 191433375744.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "profile": {
+                    "company": "NIKE, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "ticker": "NKE",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.756Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.5618,
+                    "change_percentage": -2.3605044,
+                    "last": 23.2382,
+                    "market_cap": 189748264960.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "ticker": "WFC-PY",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.756Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -16.84,
+                    "change_percentage": -1.3726209,
+                    "last": 1210.01,
+                    "market_cap": 189113679872.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.756Z"
+                    }
+                },
+                "ticker": "WFC-PL",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.757Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.32499695,
+                    "change_percentage": 0.7223759,
+                    "last": 45.315,
+                    "market_cap": 187647590400.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "profile": {
+                    "company": "Cisco Systems, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "ticker": "CSCO",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.757Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.1432037,
+                    "change_percentage": -0.83513373,
+                    "last": 254.4868,
+                    "market_cap": 186528137216.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "profile": {
+                    "company": "Danaher Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "ticker": "DHR",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.757Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.9401093,
+                    "change_percentage": -1.1560668,
+                    "last": 251.3799,
+                    "market_cap": 185907249152.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "profile": {
+                    "company": "McDonald's Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "ticker": "MCD",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.757Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.76000214,
+                    "change_percentage": 1.747935,
+                    "last": 44.24,
+                    "market_cap": 180897366016.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "profile": {
+                    "company": "Intel Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "ticker": "INTC",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.757Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -7.7649994,
+                    "change_percentage": -4.1864347,
+                    "last": 177.715,
+                    "market_cap": 176633954304.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "profile": {
+                    "company": "Salesforce, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.757Z"
+                    }
+                },
+                "ticker": "CRM",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.758Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.0,
+                    "change_percentage": 0.0,
+                    "last": 1841.01,
+                    "market_cap": 169333719040.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:07.758Z"
+                    }
+                },
+                "ticker": "DHR-PA",
+                "updated": {
+                    "$date": "2022-05-28T16:45:07.758Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.3100014,
+                    "change_percentage": -2.8646433,
+                    "last": 44.42,
+                    "market_cap": 168346910720.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "profile": {
+                    "company": "Wells Fargo & Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "ticker": "WFC",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.955Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 1.3349915,
+                    "change_percentage": 1.005719,
+                    "last": 134.075,
+                    "market_cap": 168073740288.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "profile": {
+                    "company": "T-Mobile US, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "ticker": "TMUS",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.955Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 2.2991028,
+                    "change_percentage": 2.3282053,
+                    "last": 101.0491,
+                    "market_cap": 163751084032.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "profile": {
+                    "company": "Advanced Micro Devices, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "ticker": "AMD",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.955Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.32500458,
+                    "change_percentage": 0.4259004,
+                    "last": 76.635,
+                    "market_cap": 163226419200.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "profile": {
+                    "company": "Bristol-Myers Squibb Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "ticker": "BMY",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.955Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 2.7099915,
+                    "change_percentage": 1.5563035,
+                    "last": 176.84,
+                    "market_cap": 163070181376.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "profile": {
+                    "company": "Texas Instruments Incorporated",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.955Z"
+                    }
+                },
+                "ticker": "TXN",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.955Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.6,
+                    "change_percentage": -2.43235,
+                    "last": 64.18,
+                    "market_cap": 162308653056.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "profile": {
+                    "company": "BHP Group Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "ticker": "BBL",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.956Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -5.149994,
+                    "change_percentage": -1.5981859,
+                    "last": 317.09,
+                    "market_cap": 161000865792.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "profile": {
+                    "company": "Linde plc",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "ticker": "LIN",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.956Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -3.604309,
+                    "change_percentage": -1.9609951,
+                    "last": 180.1957,
+                    "market_cap": 157359669248.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "profile": {
+                    "company": "United Parcel Service, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "ticker": "UPS",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.956Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.47000122,
+                    "change_percentage": 0.4673839,
+                    "last": 101.03,
+                    "market_cap": 156607610880.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "profile": {
+                    "company": "Philip Morris International Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "ticker": "PM",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.956Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 3.730011,
+                    "change_percentage": 2.7662497,
+                    "last": 138.57,
+                    "market_cap": 155198406656.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "profile": {
+                    "company": "QUALCOMM Incorporated",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.956Z"
+                    }
+                },
+                "ticker": "QCOM",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.956Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.15000153,
+                    "change_percentage": -0.60508883,
+                    "last": 24.64,
+                    "market_cap": 151284170752.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "profile": {
+                    "company": "AT&T Inc. 5.35% GLB NTS 66",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "ticker": "TBB",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.957Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.9000015,
+                    "change_percentage": -2.1784012,
+                    "last": 85.32,
+                    "market_cap": 149835563008.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "profile": {
+                    "company": "Morgan Stanley",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "ticker": "MS",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.957Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.63610077,
+                    "change_percentage": -1.2399625,
+                    "last": 50.6639,
+                    "market_cap": 148937670656.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "profile": {
+                    "company": "PetroChina Company Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "ticker": "PTR",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.957Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -4.3109894,
+                    "change_percentage": -1.8182924,
+                    "last": 232.779,
+                    "market_cap": 146676137984.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "profile": {
+                    "company": "Union Pacific Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "ticker": "UNP",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.957Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.17000008,
+                    "change_percentage": -0.65384644,
+                    "last": 25.83,
+                    "market_cap": 146620383232.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "ticker": "C-PJ",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.957Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.6800003,
+                    "change_percentage": -1.6133683,
+                    "last": 102.45,
+                    "market_cap": 145132716032.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.957Z"
+                    }
+                },
+                "profile": {
+                    "company": "Royal Bank of Canada",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "ticker": "RY",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.958Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.2900009,
+                    "change_percentage": -1.319559,
+                    "last": 96.47,
+                    "market_cap": 143472115712.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "ticker": "RTX",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.958Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.1053009,
+                    "change_percentage": -0.52782404,
+                    "last": 19.8447,
+                    "market_cap": 142068203520.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "profile": {
+                    "company": "AT&T Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "ticker": "T",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.958Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.76999664,
+                    "change_percentage": -1.0539237,
+                    "last": 72.29,
+                    "market_cap": 142013710336.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "profile": {
+                    "company": "NextEra Energy, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "ticker": "NEE",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.958Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.94000244,
+                    "change_percentage": -0.88821924,
+                    "last": 104.89,
+                    "market_cap": 140755042304.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "profile": {
+                    "company": "Medtronic plc",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "ticker": "MDT",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.958Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.75,
+                    "change_percentage": -1.3513514,
+                    "last": 54.75,
+                    "market_cap": 136728264704.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "profile": {
+                    "company": "Sanofi",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.958Z"
+                    }
+                },
+                "ticker": "SNY",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.959Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 1.5100021,
+                    "change_percentage": 1.4538822,
+                    "last": 105.37,
+                    "market_cap": 136564793344.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.959Z"
+                    }
+                },
+                "profile": {
+                    "company": "ConocoPhillips",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.959Z"
+                    }
+                },
+                "ticker": "COP",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.959Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.25999832,
+                    "change_percentage": -0.4927944,
+                    "last": 52.5,
+                    "market_cap": 135994949632.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.959Z"
+                    }
+                },
+                "ticker": "TTE",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.959Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 1.5,
+                    "change_percentage": 0.5927682,
+                    "last": 254.55,
+                    "market_cap": 135980613632.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.959Z"
+                    }
+                },
+                "profile": {
+                    "company": "Amgen Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:30.959Z"
+                    }
+                },
+                "ticker": "AMGN",
+                "updated": {
+                    "$date": "2022-05-28T16:45:30.959Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -6.350006,
+                    "change_percentage": -3.0652664,
+                    "last": 200.81,
+                    "market_cap": 133753913344.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.099Z"
+                    }
+                },
+                "profile": {
+                    "company": "Lowe's Companies, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.099Z"
+                    }
+                },
+                "ticker": "LOW",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.099Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 2.8099976,
+                    "change_percentage": 1.4552033,
+                    "last": 195.91,
+                    "market_cap": 133362401280.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.099Z"
+                    }
+                },
+                "profile": {
+                    "company": "Honeywell International Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.099Z"
+                    }
+                },
+                "ticker": "HON",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.100Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.94999695,
+                    "change_percentage": -1.2832594,
+                    "last": 73.08,
+                    "market_cap": 132542275584.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Toronto-Dominion Bank",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "ticker": "TD",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.100Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.8349991,
+                    "change_percentage": -2.5714674,
+                    "last": 69.525,
+                    "market_cap": 131770736640.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Charles Schwab Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "ticker": "SCHW",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.100Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -3.3300018,
+                    "change_percentage": -1.8726811,
+                    "last": 174.49,
+                    "market_cap": 131401441280.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "profile": {
+                    "company": "American Express Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "ticker": "AXP",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.100Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.6100006,
+                    "change_percentage": -2.595208,
+                    "last": 97.96,
+                    "market_cap": 129337565184.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "profile": {
+                    "company": "CVS Health Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "ticker": "CVS",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.100Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -4.5499954,
+                    "change_percentage": -4.077057,
+                    "last": 107.05,
+                    "market_cap": 128665542656.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "profile": {
+                    "company": "Blackstone Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.100Z"
+                    }
+                },
+                "ticker": "BX",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.100Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.9850006,
+                    "change_percentage": -2.713974,
+                    "last": 71.155,
+                    "market_cap": 127304122368.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "profile": {
+                    "company": "Fomento Económico Mexicano, S.A.B. de C.V.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "ticker": "FMX",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.101Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.3800011,
+                    "change_percentage": -4.188167,
+                    "last": 31.57,
+                    "market_cap": 127067037696.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "profile": {
+                    "company": "HSBC Holdings plc",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "ticker": "HSBC",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.101Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.47599983,
+                    "change_percentage": -2.572972,
+                    "last": 18.024,
+                    "market_cap": 126877614080.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "ticker": "WFC-PC",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.101Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.8500061,
+                    "change_percentage": 0.16657314,
+                    "last": 511.14,
+                    "market_cap": 123228184576.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "profile": {
+                    "company": "Anthem, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "ticker": "ANTM",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.101Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.019989,
+                    "change_percentage": -0.7423501,
+                    "last": 136.38,
+                    "market_cap": 122240122880.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "profile": {
+                    "company": "International Business Machines Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.101Z"
+                    }
+                },
+                "ticker": "IBM",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.101Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -12.26001,
+                    "change_percentage": -3.3651762,
+                    "last": 352.06,
+                    "market_cap": 122174324736.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "profile": {
+                    "company": "S&P Global Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "ticker": "SPGI",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.102Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 7.4000244,
+                    "change_percentage": 2.472196,
+                    "last": 306.73,
+                    "market_cap": 120575565824.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "profile": {
+                    "company": "Invesco QQQ Trust",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "ticker": "QQQ",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.102Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -8.690002,
+                    "change_percentage": -2.1925073,
+                    "last": 387.66,
+                    "market_cap": 118927884288.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "profile": {
+                    "company": "Deere & Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "ticker": "DE",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.102Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.9899979,
+                    "change_percentage": -1.9403256,
+                    "last": 100.57,
+                    "market_cap": 118630367232.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "profile": {
+                    "company": "SAP SE",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "ticker": "SAP",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.102Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.75500107,
+                    "change_percentage": -1.6448824,
+                    "last": 45.145,
+                    "market_cap": 118292094976.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "profile": {
+                    "company": "Unilever PLC",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.102Z"
+                    }
+                },
+                "ticker": "UL",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.102Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 12.819977,
+                    "change_percentage": 3.1543665,
+                    "last": 419.24,
+                    "market_cap": 118257958912.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "profile": {
+                    "company": "Intuit Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "ticker": "INTU",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.103Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -5.5999756,
+                    "change_percentage": -1.2563323,
+                    "last": 440.14,
+                    "market_cap": 117124341760.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "profile": {
+                    "company": "Lockheed Martin Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "ticker": "LMT",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.103Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -3.1649933,
+                    "change_percentage": -1.4218937,
+                    "last": 219.425,
+                    "market_cap": 117035597824.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "profile": {
+                    "company": "Caterpillar Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "ticker": "CAT",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.103Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -3.980011,
+                    "change_percentage": -1.9818797,
+                    "last": 196.84,
+                    "market_cap": 116062568448.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "profile": {
+                    "company": "Diageo plc",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "ticker": "DEO",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.103Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.0100021,
+                    "change_percentage": -1.7315311,
+                    "last": 57.32,
+                    "market_cap": 115142123520.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "profile": {
+                    "company": "Anheuser-Busch InBev SA/NV",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.103Z"
+                    }
+                },
+                "ticker": "BUD",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.103Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.4300003,
+                    "change_percentage": -1.1951092,
+                    "last": 35.55,
+                    "market_cap": 114506186752.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.104Z"
+                    }
+                },
+                "profile": {
+                    "company": "Equinor ASA",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.104Z"
+                    }
+                },
+                "ticker": "EQNR",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.104Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.7900009,
+                    "change_percentage": -2.4926903,
+                    "last": 70.02,
+                    "market_cap": 114453282816.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.104Z"
+                    }
+                },
+                "profile": {
+                    "company": "Rio Tinto Group",
+                    "updated": {
+                        "$date": "2022-05-28T16:45:58.104Z"
+                    }
+                },
+                "ticker": "RIO",
+                "updated": {
+                    "$date": "2022-05-28T16:45:58.104Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.5149994,
+                    "change_percentage": -1.1403884,
+                    "last": 44.645,
+                    "market_cap": 113487142912.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.917Z"
+                    }
+                },
+                "profile": {
+                    "company": "GlaxoSmithKline plc",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.917Z"
+                    }
+                },
+                "ticker": "GSK",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.917Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.699997,
+                    "change_percentage": -1.0991683,
+                    "last": 242.94,
+                    "market_cap": 110849392640.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.917Z"
+                    }
+                },
+                "profile": {
+                    "company": "American Tower Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.917Z"
+                    }
+                },
+                "ticker": "AMT",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.917Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.75,
+                    "change_percentage": -1.8058839,
+                    "last": 149.53,
+                    "market_cap": 110692122624.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.917Z"
+                    }
+                },
+                "profile": {
+                    "company": "Prologis, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "ticker": "PLD",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.918Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -6.5999756,
+                    "change_percentage": -2.0363383,
+                    "last": 317.51,
+                    "market_cap": 109047865344.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Goldman Sachs Group, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "ticker": "GS",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.918Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -5.619995,
+                    "change_percentage": -2.3670115,
+                    "last": 231.81,
+                    "market_cap": 107484266496.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "profile": {
+                    "company": "Target Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "ticker": "TGT",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.918Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.3899994,
+                    "change_percentage": -2.6999543,
+                    "last": 86.13,
+                    "market_cap": 106542800896.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "profile": {
+                    "company": "Sony Group Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "ticker": "SONY",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.918Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.3900013,
+                    "change_percentage": -1.2244939,
+                    "last": 31.46,
+                    "market_cap": 105011585024.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "profile": {
+                    "company": "BP p.l.c.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.918Z"
+                    }
+                },
+                "ticker": "BP",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.919Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 3.6549988,
+                    "change_percentage": 3.1763263,
+                    "last": 118.725,
+                    "market_cap": 104881070080.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "profile": {
+                    "company": "Applied Materials, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "ticker": "AMAT",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.919Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.14009857,
+                    "change_percentage": 0.24840172,
+                    "last": 56.5401,
+                    "market_cap": 102369247232.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "profile": {
+                    "company": "Altria Group, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "ticker": "MO",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.919Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.0,
+                    "change_percentage": 0.0,
+                    "last": 27.3,
+                    "market_cap": 101384552448.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "ticker": "RY-PT",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.919Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.34000015,
+                    "change_percentage": -0.6509672,
+                    "last": 51.89,
+                    "market_cap": 100765188096.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "profile": {
+                    "company": "Citigroup Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "ticker": "C",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.919Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.4049988,
+                    "change_percentage": -2.5429842,
+                    "last": 53.845,
+                    "market_cap": 99586334720.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "profile": {
+                    "company": "HDFC Bank Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "ticker": "HDB",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.919Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -21.082764,
+                    "change_percentage": -3.1692443,
+                    "last": 644.1472,
+                    "market_cap": 97733877760.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.919Z"
+                    }
+                },
+                "profile": {
+                    "company": "BlackRock, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "ticker": "BLK",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.920Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 3.9400024,
+                    "change_percentage": 4.899282,
+                    "last": 84.36,
+                    "market_cap": 97692262400.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "profile": {
+                    "company": "PayPal Holdings, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "ticker": "PYPL",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.920Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.0,
+                    "change_percentage": 0.0,
+                    "last": 24.85,
+                    "market_cap": 96534790144.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "ticker": "ISG",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.920Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -19.470001,
+                    "change_percentage": -3.8982103,
+                    "last": 479.99,
+                    "market_cap": 96218791936.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "profile": {
+                    "company": "ServiceNow, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "ticker": "NOW",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.920Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.40000153,
+                    "change_percentage": -0.9494458,
+                    "last": 41.73,
+                    "market_cap": 96054943744.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "profile": {
+                    "company": "British American Tobacco p.l.c.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "ticker": "BTI",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.920Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -11.87001,
+                    "change_percentage": -4.614013,
+                    "last": 245.39,
+                    "market_cap": 93429784576.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Estée Lauder Companies Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.920Z"
+                    }
+                },
+                "ticker": "EL",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.921Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 5.154999,
+                    "change_percentage": 2.361645,
+                    "last": 223.435,
+                    "market_cap": 93339303936.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "profile": {
+                    "company": "Automatic Data Processing, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "ticker": "ADP",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.921Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.6450043,
+                    "change_percentage": -0.6687825,
+                    "last": 244.325,
+                    "market_cap": 92392472576.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "profile": {
+                    "company": "Stryker Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "ticker": "SYK",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.921Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.09000015,
+                    "change_percentage": 0.19915944,
+                    "last": 45.28,
+                    "market_cap": 91864064000.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "profile": {
+                    "company": "Enbridge Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "ticker": "ENB",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.921Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.6049957,
+                    "change_percentage": -1.65955,
+                    "last": 154.365,
+                    "market_cap": 91327889408.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Boeing Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "ticker": "BA",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.921Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 24.79004,
+                    "change_percentage": 1.1159095,
+                    "last": 2246.3,
+                    "market_cap": 91252121600.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "profile": {
+                    "company": "Booking Holdings Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.921Z"
+                    }
+                },
+                "ticker": "BKNG",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.922Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.23999977,
+                    "change_percentage": -3.230145,
+                    "last": 7.19,
+                    "market_cap": 91231756288.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.922Z"
+                    }
+                },
+                "profile": {
+                    "company": "China Life Insurance Company Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:17.922Z"
+                    }
+                },
+                "ticker": "LFC",
+                "updated": {
+                    "$date": "2022-05-28T16:46:17.922Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.27000046,
+                    "change_percentage": -1.927198,
+                    "last": 13.74,
+                    "market_cap": 89615720448.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.395Z"
+                    }
+                },
+                "profile": {
+                    "company": "Petróleo Brasileiro S.A. - Petrobras",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.395Z"
+                    }
+                },
+                "ticker": "PBR",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.395Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -3.680008,
+                    "change_percentage": -1.7199513,
+                    "last": 210.28,
+                    "market_cap": 89097953280.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.395Z"
+                    }
+                },
+                "profile": {
+                    "company": "Chubb Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.395Z"
+                    }
+                },
+                "ticker": "CB",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.395Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.58000183,
+                    "change_percentage": 0.92800295,
+                    "last": 63.08,
+                    "market_cap": 87297679360.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.395Z"
+                    }
+                },
+                "profile": {
+                    "company": "Mondelez International, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.395Z"
+                    }
+                },
+                "ticker": "MDLZ",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.395Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.1849976,
+                    "change_percentage": -1.4733278,
+                    "last": 79.245,
+                    "market_cap": 87221805056.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.395Z"
+                    }
+                },
+                "profile": {
+                    "company": "General Electric Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "ticker": "GE",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.396Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 1.3300018,
+                    "change_percentage": 1.785477,
+                    "last": 75.82,
+                    "market_cap": 86957957120.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "profile": {
+                    "company": "Starbucks Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "ticker": "SBUX",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.396Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.4899902,
+                    "change_percentage": -1.6144656,
+                    "last": 151.74,
+                    "market_cap": 86349012992.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "profile": {
+                    "company": "3M Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "ticker": "MMM",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.396Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 2.7599945,
+                    "change_percentage": 1.6907587,
+                    "last": 166.0,
+                    "market_cap": 86287802368.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "profile": {
+                    "company": "Analog Devices, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "ticker": "ADI",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.396Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 2.3639069,
+                    "change_percentage": 1.235061,
+                    "last": 193.7639,
+                    "market_cap": 86084263936.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "profile": {
+                    "company": "Netflix, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "ticker": "NFLX",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.396Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.12000084,
+                    "change_percentage": -0.5822457,
+                    "last": 20.49,
+                    "market_cap": 85914771456.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.396Z"
+                    }
+                },
+                "profile": {
+                    "company": "Infosys Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "ticker": "INFY",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.397Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 7.869995,
+                    "change_percentage": 1.5651093,
+                    "last": 510.71,
+                    "market_cap": 85726756864.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "profile": {
+                    "company": "Charter Communications, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "ticker": "CHTR",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.397Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.5999985,
+                    "change_percentage": -0.5429359,
+                    "last": 109.91,
+                    "market_cap": 84885143552.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "profile": {
+                    "company": "Duke Energy Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "ticker": "DUK",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.397Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.5599976,
+                    "change_percentage": -1.2706667,
+                    "last": 121.21,
+                    "market_cap": 83911622656.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "profile": {
+                    "company": "Canadian National Railway Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "ticker": "CNI",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.397Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.6100006,
+                    "change_percentage": 1.1570573,
+                    "last": 53.33,
+                    "market_cap": 83288129536.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "profile": {
+                    "company": "JD.com, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.397Z"
+                    }
+                },
+                "ticker": "JD",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.397Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.5899963,
+                    "change_percentage": -0.8990141,
+                    "last": 175.27,
+                    "market_cap": 82596167680.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "profile": {
+                    "company": "Zoetis Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "ticker": "ZTS",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.398Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.2871,
+                    "change_percentage": -1.4108107,
+                    "last": 20.0629,
+                    "market_cap": 82595553280.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "ticker": "USB-PH",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.398Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 4.5099945,
+                    "change_percentage": 2.019702,
+                    "last": 227.81,
+                    "market_cap": 81773993984.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "profile": {
+                    "company": "Intuitive Surgical, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "ticker": "ISRG",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.398Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 2.459999,
+                    "change_percentage": 3.4844182,
+                    "last": 73.06,
+                    "market_cap": 81583906816.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "profile": {
+                    "company": "Micron Technology, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "ticker": "MU",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.398Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.05999756,
+                    "change_percentage": -0.09306275,
+                    "last": 64.41,
+                    "market_cap": 80790110208.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "profile": {
+                    "company": "Gilead Sciences, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "ticker": "GILD",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.398Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.130005,
+                    "change_percentage": -0.8331071,
+                    "last": 253.54,
+                    "market_cap": 80721297408.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.398Z"
+                    }
+                },
+                "profile": {
+                    "company": "Cigna Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "ticker": "CI",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.399Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.6699982,
+                    "change_percentage": -1.6336259,
+                    "last": 160.77,
+                    "market_cap": 80692715520.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "profile": {
+                    "company": "Marsh & McLennan Companies, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "ticker": "MMC",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.399Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.0,
+                    "change_percentage": 0.0,
+                    "last": 92.0,
+                    "market_cap": 79838150656.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "ticker": "CTA-PB",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.399Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.11000061,
+                    "change_percentage": 0.14751323,
+                    "last": 74.68,
+                    "market_cap": 79348989952.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Southern Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "ticker": "SO",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.399Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.2799988,
+                    "change_percentage": -2.4658039,
+                    "last": 50.63,
+                    "market_cap": 79346835456.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "profile": {
+                    "company": "Brookfield Asset Management Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "ticker": "BAM",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.399Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -2.2700043,
+                    "change_percentage": -1.2307549,
+                    "last": 182.17,
+                    "market_cap": 78885437440.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "profile": {
+                    "company": "Crown Castle International Corp.",
+                    "updated": {
+                        "$date": "2022-05-28T16:46:36.399Z"
+                    }
+                },
+                "ticker": "CCI",
+                "updated": {
+                    "$date": "2022-05-28T16:46:36.400Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.5699997,
+                    "change_percentage": -3.433733,
+                    "last": 16.03,
+                    "market_cap": 78155866112.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.546Z"
+                    }
+                },
+                "profile": {
+                    "company": "Vale S.A.",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.546Z"
+                    }
+                },
+                "ticker": "VALE",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.547Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.98999786,
+                    "change_percentage": -1.511678,
+                    "last": 64.5,
+                    "market_cap": 77688315904.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.547Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Bank of Nova Scotia",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.547Z"
+                    }
+                },
+                "ticker": "BNS",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.547Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 5.3799973,
+                    "change_percentage": 4.706909,
+                    "last": 119.68,
+                    "market_cap": 77272948736.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.547Z"
+                    }
+                },
+                "ticker": "ABNB",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.547Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.0699997,
+                    "change_percentage": -2.0996854,
+                    "last": 49.89,
+                    "market_cap": 77124452352.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.547Z"
+                    }
+                },
+                "profile": {
+                    "company": "China Petroleum & Chemical Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.547Z"
+                    }
+                },
+                "ticker": "SNP",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.547Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 3.2299805,
+                    "change_percentage": 0.4726063,
+                    "last": 686.67,
+                    "market_cap": 76249210880.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.547Z"
+                    }
+                },
+                "profile": {
+                    "company": "Regeneron Pharmaceuticals, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.547Z"
+                    }
+                },
+                "ticker": "REGN",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.547Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.50499725,
+                    "change_percentage": -0.7693438,
+                    "last": 65.135,
+                    "market_cap": 75791736832.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "profile": {
+                    "company": "Canadian Natural Resources Limited",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "ticker": "CNQ",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.548Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.48999977,
+                    "change_percentage": -2.007373,
+                    "last": 23.92,
+                    "market_cap": 75044216832.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "ticker": "USB-PP",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.548Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.09999991,
+                    "change_percentage": -1.661128,
+                    "last": 5.92,
+                    "market_cap": 74876157952.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "profile": {
+                    "company": "Mitsubishi UFJ Financial Group, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "ticker": "MUFG",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.548Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.26000023,
+                    "change_percentage": -2.0015414,
+                    "last": 12.73,
+                    "market_cap": 73964609536.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "profile": {
+                    "company": "Petróleo Brasileiro S.A. - Petrobras",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "ticker": "PBR-A",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.548Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.7700005,
+                    "change_percentage": -2.7626042,
+                    "last": 62.3,
+                    "market_cap": 73497804800.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "profile": {
+                    "company": "The TJX Companies, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "ticker": "TJX",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.548Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.0900002,
+                    "change_percentage": -2.1571348,
+                    "last": 49.44,
+                    "market_cap": 73467838464.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.548Z"
+                    }
+                },
+                "profile": {
+                    "company": "U.S. Bancorp",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.549Z"
+                    }
+                },
+                "ticker": "USB",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.549Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 19.940033,
+                    "change_percentage": 3.9158762,
+                    "last": 529.15,
+                    "market_cap": 73401049088.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.549Z"
+                    }
+                },
+                "profile": {
+                    "company": "Lam Research Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.549Z"
+                    }
+                },
+                "ticker": "LRCX",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.549Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.3350067,
+                    "change_percentage": 0.2684994,
+                    "last": 125.105,
+                    "market_cap": 73235095552.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.549Z"
+                    }
+                },
+                "profile": {
+                    "company": "EOG Resources, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.549Z"
+                    }
+                },
+                "ticker": "EOG",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.549Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 2.5800018,
+                    "change_percentage": 1.0175917,
+                    "last": 256.12,
+                    "market_cap": 72909938688.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.549Z"
+                    }
+                },
+                "profile": {
+                    "company": "Becton, Dickinson and Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "ticker": "BDX",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.550Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.07290077,
+                    "change_percentage": -0.35115978,
+                    "last": 20.6871,
+                    "market_cap": 72843829248.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "ticker": "MS-PA",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.550Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -3.1149902,
+                    "change_percentage": -1.1025343,
+                    "last": 279.415,
+                    "market_cap": 72684511232.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "profile": {
+                    "company": "The Sherwin-Williams Company",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "ticker": "SHW",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.550Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -1.7600021,
+                    "change_percentage": -1.6213746,
+                    "last": 106.79,
+                    "market_cap": 71783809024.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "profile": {
+                    "company": "Bank of Montreal",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "ticker": "BMO",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.550Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 2.1100006,
+                    "change_percentage": 1.0715559,
+                    "last": 199.02,
+                    "market_cap": 71531970560.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "profile": {
+                    "company": "CME Group Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "ticker": "CME",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.550Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.16260147,
+                    "change_percentage": -0.8321467,
+                    "last": 19.3774,
+                    "market_cap": 71414824960.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "ticker": "GS-PA",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.550Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -4.399994,
+                    "change_percentage": -0.951206,
+                    "last": 458.17,
+                    "market_cap": 71220232192.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.550Z"
+                    }
+                },
+                "profile": {
+                    "company": "Northrop Grumman Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.551Z"
+                    }
+                },
+                "ticker": "NOC",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.551Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -4.380005,
+                    "change_percentage": -2.5213015,
+                    "last": 169.34,
+                    "market_cap": 70276096000.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.551Z"
+                    }
+                },
+                "profile": {
+                    "company": "The PNC Financial Services Group, Inc.",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.551Z"
+                    }
+                },
+                "ticker": "PNC",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.551Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 1.3300171,
+                    "change_percentage": 0.49323833,
+                    "last": 270.98,
+                    "market_cap": 69610700800.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.551Z"
+                    }
+                },
+                "profile": {
+                    "company": "Vertex Pharmaceuticals Incorporated",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.551Z"
+                    }
+                },
+                "ticker": "VRTX",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.551Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": 0.43500137,
+                    "change_percentage": 1.3818341,
+                    "last": 31.915,
+                    "market_cap": 69391507456.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.551Z"
+                    }
+                },
+                "profile": {
+                    "company": "CSX Corporation",
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.551Z"
+                    }
+                },
+                "ticker": "CSX",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.551Z"
+                }
+            },
+            {
+                "daily": [],
+                "hourly": [],
+                "price": {
+                    "change": -0.35150146,
+                    "change_percentage": -1.3375247,
+                    "last": 25.9285,
+                    "market_cap": 69147418624.0,
+                    "updated": {
+                        "$date": "2022-05-28T16:47:50.551Z"
+                    }
+                },
+                "ticker": "MS-PI",
+                "updated": {
+                    "$date": "2022-05-28T16:47:50.551Z"
+                }
+            }
+]

@@ -111,7 +111,9 @@ const FundamentalsClassics = (props) => {
 
 
     useEffect(()=>{
-        refetch({cancelRefetch:true})
+        // refetch({cancelRefetch:true})
+        onRefreshData()
+
     }, [query])
 
 
@@ -148,7 +150,9 @@ const FundamentalsClassics = (props) => {
 
 
     const onRefreshData = () => {
-        refetch({cancelRefetch:true})
+        // refetch({cancelRefetch:true})
+        // TODO:
+        // Add logic to load fundamentals json and crop sub array with page size and page number (at:1)
     }
 
 

@@ -1,0 +1,20 @@
+{
+    "profile":{
+        "country": "United States",
+        "currency": "USD",
+        "exchange": "NMS",
+        "industry": "Consumer Electronics",
+        "name": "Apple Inc.",
+        "sector": "Technology"
+    },
+    "alerts":{
+        "price": {
+            "change": 4.5400085,
+            "change_percentage": 3.1576078,
+            "last": 148.32,
+            "market_cap": 2400588922880.0,
+            "updated": 1653670830,
+            "volume": 49622085.0
+        }
+    }
+}
