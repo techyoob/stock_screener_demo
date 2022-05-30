@@ -19,6 +19,13 @@ import NoData from '../../nodata';
 import { candleStickConfig } from './candlestickConf';
 import useResponsiveDesign from '../../../services/useResponsiveDevice';
 
+import chartData1m from '../../../data/chart1m.json';
+import chartData5m from '../../../data/chart5m.json';
+import chartData15m from '../../../data/chart15m.json';
+import chartData30m from '../../../data/chart30m.json';
+import chartData1h from '../../../data/chart1h.json';
+import chartData1d from '../../../data/chart1d.json';
+
 
 
 const CandleStickChart = (props) => {
@@ -76,8 +83,7 @@ const CandleStickChart = (props) => {
     }, [])
 
     useEffect(()=>{
-
-        refetch({cancelRefetch:true})
+        onRefreshData()
     }, [query])
 
 
@@ -88,25 +94,6 @@ const CandleStickChart = (props) => {
         })
     }, [ticker])
 
-    useEffect(()=>{
-
-
-        if (isSuccess && Array.isArray(data?.ohlc)){
-            setCandles(data?.ohlc)
-        } else {
-            setCandles([])
-        }
-
-        if (isSuccess && Array.isArray(data?.volume)){
-            setVolume(data?.volume)
-        } else {
-            setVolume([])
-        }
-
-
-
-    }, [data])
-
 
     const onCandleSizeChange = (size) => {
         setSelectedSize(size)
@@ -116,6 +103,12 @@ const CandleStickChart = (props) => {
         })
     }
 
+    const onRefreshData = () =>{
+
+        const newCandlesData = canldeSizeSelector[query.candle_size];
+        setCandles(newCandlesData?.ohlc)
+        setVolume(newCandlesData?.volume)
+    }
 
     return (
         <React.Fragment>
@@ -145,3 +138,22 @@ const CandleStickChart = (props) => {
 };
 
 export default CandleStickChart;
+
+
+
+
+
+
+const canldeSizeSelector = {
+    '1m':chartData1m,
+    '5m':chartData5m,
+    '15m':chartData15m,
+    '30m':chartData30m,
+    '1h':chartData1h,
+    '1d':chartData1d
+}
+
+
+
+
+

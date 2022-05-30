@@ -43,9 +43,8 @@ const useStyles = ({isLargeScreen, isMidScreen, isSmallScreen}) => makeStyles(th
         width: '100vw',
         display: 'flex',
         color: '#9bc5b1',
-        backgroundColor: '#3a4552',
-        background: '#3a4552',
-        background: 'linear-gradient(300deg, #2b333f 0%, #3d444d 35%, #222933 100%)', 
+        background: 'rgb(49,57,59)',
+        background: 'linear-gradient(151deg, rgba(49,57,59,1) 0%, rgba(56,69,71,1) 100%)',
       [theme.breakpoints.up('xs')]: {
         display: 'flex',
         flexDirection: 'column',
@@ -62,7 +61,7 @@ const useStyles = ({isLargeScreen, isMidScreen, isSmallScreen}) => makeStyles(th
       },
     },
     dashboardSelectedPage:{
-        width:'100%',
+        width:'97%',
         height:`calc(100% - ${isLargeScreen ? '60px': isSmallScreen ? '130px' : '80px'})`,
         overflow:'hidden',
     },
@@ -104,7 +103,7 @@ const useStyles = ({isLargeScreen, isMidScreen, isSmallScreen}) => makeStyles(th
     }
 
     const onSearchStockSymbol = (ticker) => {
-        setStock({...stock, ticker:ticker.toUpperCase()})
+        // setStock({...stock, ticker:ticker.toUpperCase()})
         onSelectPage('stock watch')
     }
 

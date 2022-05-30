@@ -26,6 +26,7 @@ import { abbreviateNumber } from '../../../util/abbreviateNumber';
 
 import './stockAlerts.css';
 import { borderRadius } from '@mui/system';
+import alertsData from '../../../data/alerts.json'
 
 
 
@@ -94,28 +95,19 @@ const StockAlerts = (props) => {
 
 
     useEffect(()=>{
-        refetch({cancelRefetch:true})
-    }, [])
-
-    useEffect(()=>{
         setQuery({
             ticker:ticker
         })
     }, [ticker])
 
     useEffect(()=>{
-        refetch({cancelRefetch:true})
+        onRefreshData()
     }, [query])
 
-    useEffect(()=>{
 
-        if(status==='success'){
-            setAlerts(data)
-        } else {
-            setAlerts([])
-        }
-
-    }, [data])
+    const onRefreshData = () => {
+        setAlerts(alertsData)
+    }
 
     return (
         <div className={`${classes.carouselContainer} ${'stock-alerts-carousel'}`} >
@@ -195,37 +187,6 @@ const Price = (props) => {
 
     );
 };
-
-
-{/* <div className={classes.containerView}>                    
-                                 
-</div> */}
-
-
-// <div className='stock-price-container'>
-// <div className='stock-price-title'>
-
-// </div>
-// <div className='stock-price-last'>
-    
-// </div>
-// <div className='stock-price-change'>
-    
-// </div>
-// <div className='stock-price-change'>
-    
-// </div>
-// </div>
-
-
-
-
-
-
-
-
-
-
 
 
 

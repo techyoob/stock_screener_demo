@@ -18,7 +18,7 @@ import { StockCompanyLogo } from '../../gass/StockCompanyLogo';
 import Throbber from '../../controls/throbber';
 import useResponsiveDesign from '../../../services/useResponsiveDevice';
 
-
+import profileData from '../../../data/profile.json'
 
 
 
@@ -79,15 +79,6 @@ const Profile = (props) => {
     const {status, data, isLoading, error, refetch }  = useTradersQuery({ selectedPage, endpoint:'classics/profile', query})
 
 
-    useEffect(()=>{
-
-        if(status==='success'){
-            setProfile(data)
-        } else {
-            setProfile({})
-        }
-
-    }, [data])
 
     useEffect(()=>{
         setQuery({
@@ -96,8 +87,13 @@ const Profile = (props) => {
     }, [ticker])
 
     useEffect(()=>{
-        refetch({cancelRefetch:true})
+        onRefreshData()
     }, [query])
+
+
+    const onRefreshData = () => {
+        setProfile(profileData)
+    }
 
     return (
         <div className={classes.profileMainContainer}>
@@ -115,7 +111,7 @@ const Profile = (props) => {
                     {detailItems.map((item, i)=>{
 
                         return  (
-                            <Grid item xs={12} lg={6}>
+                            <Grid key={i} item xs={12} lg={6}>
                                 <div className={classes.profileElementGrid}>                    
                                     <span>{item}</span>
                                     <span className='company-details-item-value'>{item in profile ? profile?.[item] : '---'}</span>
@@ -131,125 +127,3 @@ const Profile = (props) => {
 };
 
 export default Profile;
-
-
-
-
-
-// <div className='profile-view-container'>
-// <StockCompanyLogo />
-// <span className='company-ticker-Container'>
-//     {ticker}
-// </span>
-// <div className='company-name-Container'>
-//     {isLoading ? <Throbber /> : profile?.['name']}
-// </div>
-// {detailItems.map((item, i)=>{
-//     return ( <div className='company-details-item' key={i}> 
-//                 <span>{item}</span>
-//                 <span className='company-details-item-value'>{item in profile ? profile?.[item] : '---'}</span>
-//             </div>)
-// })}
-// </div>
-
-
-
-
-
-const ProfileElement = (props) => {
-
-    return (
-        <div>
-            
-        </div>
-    );
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// const Profile = (props) => {
-//     // TODO:
-//     // refactor this component to have Grids and scrollable  profile item list
-
-
-
-//     const detailItems = ['exchange', 'industry', 'sector']
-
-//     const { selectedPage, ticker,  } = props
-//     const [query, setQuery] = useState({
-//         ticker:ticker
-//     })
-
-//     const { isSmallScreen, isMidScreen, isLargeScreen } = useResponsiveDesign();
-
-//     const [profile, setProfile ] = useState({})    
-//     const {status, data, isLoading, error, refetch }  = useTradersQuery({ selectedPage, endpoint:'classics/profile', query})
-
-
-//     useEffect(()=>{
-
-//         if(status==='success'){
-//             setProfile(data)
-//         } else {
-//             setProfile({})
-//         }
-
-//     }, [data])
-
-//     useEffect(()=>{
-//         setQuery({
-//             ticker:ticker,
-//         })
-//     }, [ticker])
-
-//     useEffect(()=>{
-//         refetch({cancelRefetch:true})
-//     }, [query])
-
-//     return (
-
-//         <div className='profile-view-container'>
-//             <StockCompanyLogo />
-//             <span className='company-ticker-Container'>
-//                 {ticker}
-//             </span>
-//             <div className='company-name-Container'>
-//                 {isLoading ? <Throbber /> : profile?.['name']}
-//             </div>
-//             {detailItems.map((item, i)=>{
-//                 return ( <div className='company-details-item' key={i}> 
-//                             <span>{item}</span>
-//                             <span className='company-details-item-value'>{item in profile ? profile?.[item] : '---'}</span>
-//                         </div>)
-//             })}
-//         </div>
-//     );
-// };
-
-
-
-

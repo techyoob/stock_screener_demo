@@ -22,8 +22,8 @@ import React from 'react';
 import Signin from './Signin';
 import Signup from './Signup'
 import './auth.css'
-import {ReactComponent as LogoGassH} from '../../assets/svg/logoHOne.svg';
-import  GASSLogo from '../../assets/png/gass-logo-0.png';
+import {ReactComponent as GASSLogo} from '../../assets/svg/stock-screener.svg';
+// import  GASSLogo from '../../assets/png/gass-logo-0.png';
 
 
 

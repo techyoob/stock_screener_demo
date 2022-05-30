@@ -108,17 +108,6 @@ const FundamentalsClassics = (props) => {
     }, [query])
 
 
-    // useEffect(()=>{
-    //     if (isSuccess && Array.isArray(data?.classics)){
-    //         setClassicsList(data?.classics);
-    //         setPaginationSize(Math.ceil(data?.total/query?.page.size));
-    //         setUpdatedAt(data.updated);
-    //     } else {
-    //         setClassicsList([]);
-    //     }
-
-    // }, [data])
-
 
     const onFilterChange = (newFilterState) =>{
         setQuery({...query, filter:{...query.filter, ...newFilterState}})
@@ -144,7 +133,7 @@ const FundamentalsClassics = (props) => {
         const end = query.page.at * query.page.size;
         const start = end - query.page.size;
         const newList = fundamentalsListSample.slice(start, end);
-        
+
         setClassicsList(newList);
         setPaginationSize(Math.ceil(fundamentalsListSample.length/query.page.size));
         setUpdatedAt("30/05/2022 03:54:04");

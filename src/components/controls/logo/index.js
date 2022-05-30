@@ -15,19 +15,9 @@ import React from 'react';
 
 // Application
 import useResponsiveDesign from "../../../services/useResponsiveDevice";
-import  GASSLogo from '../../../assets/png/gass-logo-0.png';
-import  GASSLogo2 from '../../../assets/png/gass-logo-1.png';
-import  GASSLogo3 from '../../../assets/png/gass-logo-3.png';
+import  StockScreenerMd from '../../../assets/png/logo4v113.png';
+import  StockScreenerSm from '../../../assets/png/logo4v2.png';
  
-
-
-
-
-
-// TODO:
-// Make Logo Component load different gass logo types, animate, recolor?, ...etc
-
-
 
 
 
@@ -40,10 +30,10 @@ const Logo = (props) => {
 
     return (
         <React.Fragment>
-            {(isSmallScreen || isMidScreen) && <img src={GASSLogo3} 
+            {(isSmallScreen || isMidScreen) && <img src={StockScreenerSm} 
                                                 style={{marginLeft:'10px', height:height }} 
                                                 alt="stock screener"/>}
-            {isLargeScreen && <img src={GASSLogo2} 
+            {isLargeScreen && <img src={StockScreenerMd} 
                                                 style={{marginLeft:'10px', height:height }} 
                                                 alt="stock screener"/>}
         </React.Fragment>

@@ -55,8 +55,8 @@ const useStyles = makeStyles((theme) => ({
         height: '100%',
         width:'100%',
         borderRadius: '5px',
-        backgroundColor: '#2f3e4b',
-        backgroundImage: 'linear-gradient(to right top, #3b4551, #3d4855, #3f4a58, #424d5c, #445060)',
+        background: 'rgb(68,79,82)',
+        background: 'linear-gradient(151deg, rgba(68,79,82,1) 0%, rgba(77,93,96,1) 100%)',
         color: 'rgba(0, 0, 0, 0.6)',
         padding: '8px',
         boxShadow: '0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12)',
@@ -70,7 +70,6 @@ const useStyles = makeStyles((theme) => ({
 const StockWatch = props => {
 
     const [selectedMode, setSelectedMode ] = useState(stockWatchModes[0])
-
     const { isSmallScreen, isMidScreen, isLargeScreen } = useResponsiveDesign();
 
     const onModeChange = (mode) => {
@@ -140,22 +139,6 @@ const StockWatchClassics = (props) => {
 
 
 
-
-
-
-// {testy.map((item, i)=>{
-//     return (
-//         <div key={i} styles={{backgroundColor:'red', width:'80px', height:'50px'}}>
-//             {item}
-//         </div>)
-// })}
-
-
-
-
-
-
-
 const StockWatchGraphics = (props) => {
     const classes = useStyles();
     // const filters = Object.keys(defaultGraphicsQuery?.filter)
@@ -183,85 +166,6 @@ const StockWatchGraphics = (props) => {
 };
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// const StockWatch = props => {
-//     const { selectedStock,
-//             selectedPage,
-//             onSearchStockSymbol
-//             } = props
-
-
-//     const [selectedMode, setSelectedMode ] = useState(stockWatchModes[0])
-
-
-//     // const onDataRequest=(query,endpoint)=>{
-//     //     refreshData({...query, ticker:selectedStock.ticker}, `${selectedMode}/${endpoint}`)
-//     // }
-
-//     return (
-//         <React.Fragment>
-//             <div className='screener-dashboard-page-body stock-watch-body'>
-//                 <div className='screener-modes'>
-//                     {stockWatchModes?.map((item, i)=>{
-//                         return (
-//                             <div 
-//                                 className={`screener-mode${item===selectedMode? '-selected' : ''}`}
-//                                 key={i}
-//                                 onClick={()=>setSelectedMode(item)}>
-//                                     {item}
-//                             </div>)
-//                     })}
-//                 </div>
-//                 <div className='stock-watch-elements'>
-//                     <div className='stock-watch-elements-section-I'>
-//                         <div className='stock-watch-chart-container'>
-//                             <CandleStickChart 
-//                                 ticker={selectedStock?.ticker}
-//                                 selectedPage={selectedPage}/>
-//                         </div>
-//                         <div className='stock-watch-price-container'>
-//                             <Price 
-//                                 ticker={selectedStock?.ticker}
-//                                 selectedPage={selectedPage}/>
-//                         </div>
-//                     </div>
-//                     <div className='stock-watch-elements-section-II'>
-//                         <div className='stock-watch-profile-container'>
-//                             <Profile
-//                                 ticker={selectedStock?.ticker}
-//                                 selectedPage={selectedPage}/>
-//                         </div>
-//                     </div>
-//                 </div>
-//             </div>
-//         </React.Fragment>
-
-//     );
-// };
 
 
 

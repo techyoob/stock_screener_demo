@@ -15,7 +15,7 @@ import React, {useEffect, useState} from 'react';
 
 // Application
 import './gass.css'
-import {ReactComponent as GASSLogo} from '../../assets/svg/stock-market.svg';
+import {ReactComponent as GASSLogo} from '../../assets/svg/stock-screener.svg';
 // import useTradersQuery from '../../services/useTradersQuery';
 
 

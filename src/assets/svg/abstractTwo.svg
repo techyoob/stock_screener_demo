@@ -1,9 +1,0 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366.08 768.4">
-  <defs>
-    <radialGradient id="radial-gradient" cx="822.04" cy="287.4" r="641.79" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#2157a5"/>
-      <stop offset="0.58" stop-color="#1a4589"/>
-    </radialGradient>
-  </defs>
-  <path d="M1365,100.38,1126.46,27.91C987.34-14,778.13-8.87,658.88,40.05L80.42,275.84C-38.82,324.39-24.18,398,114.94,440.26L1102.4,739.68c75.31,22.81,171.55,31.63,263.6,27.22V100.38Z" transform="translate(0.08 0.4)" fill="url(#radial-gradient)"/>
-</svg>

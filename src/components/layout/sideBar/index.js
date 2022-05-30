@@ -30,7 +30,8 @@ const useStyles = props => makeStyles(theme => ({
         minWidth:'250px',
         maxWidth: '280px',
         overflow: 'hidden',
-        backgroundColor:'#181d2388',
+        background: 'rgb(68,79,82)',
+        background: 'linear-gradient(151deg, rgba(68,79,82,1) 0%, rgba(77,93,96,1) 100%)',
     }
   }));
 
@@ -42,7 +43,7 @@ const SideBar = (props) => {
     return (
         <div className={classes.sideBar}>
             <div className="screener-menu-logo">
-                <Logo height='60%' />
+                <Logo height='100%'/>
             </div>
             <ScreenerMenu {...props} />
         </div>

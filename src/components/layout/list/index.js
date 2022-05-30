@@ -47,6 +47,8 @@ const useStyles = ({isLargeScreen, isMidScreen, isSmallScreen}) => makeStyles(th
 
     },
     tableRow:{
+        background: 'rgb(68,79,82)',
+        background: 'linear-gradient(151deg, rgba(68,79,82,1) 0%, rgba(77,93,96,1) 100%)',
         "&:hover": {
             boxShadow: "0px 0px 5px 1px #cbc7b6",
             backgroundColor: '#cbc7b652 !important'
@@ -215,7 +217,6 @@ const List = (props) => {
                                         tabIndex={-1} 
                                         key={i} 
                                         className={classes.tableRow} 
-                                        sx={{backgroundColor:'#485365', border:'none'}}
                                         onClick={()=>props.onListItemSelect(row?.ticker)}>
                                 {columns.map((column, j) => {
 
