@@ -78,7 +78,7 @@ const StockColumn = (props) => {
 
 const LastColumn = (props) => {
     const {  price: {last} } = props
-
+    
     return (
         <div className='stock-last-price'>
             {last === undefined ? `---` : `$${last?.toFixed(2)}`}

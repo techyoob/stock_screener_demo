@@ -154,6 +154,7 @@ const List = (props) => {
     const { isSmallScreen, isMidScreen, isLargeScreen } = useResponsiveDesign();
     const classes = useStyles({isSmallScreen})();
 
+    
     const [page, setPage] = useState(0);
     const [rowsPerPage, setRowsPerPage] = useState(6);
     const [columns , setColumns ] = useState(['stock'])
