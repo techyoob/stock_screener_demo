@@ -1,10 +1,7 @@
 import axios from 'axios';
 
-const baseURL = process.env.REACT_APP_GASS_USERS_API
+const baseURL = "localhost"
 
-
-// TODO:
-// make this service generic to all api calls and wrap it over react query
 
 const queryHandler = () => {
     

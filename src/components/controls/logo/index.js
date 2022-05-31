@@ -45,6 +45,5 @@ export default Logo;
 
 
 
-{/* <img src={GASSLogo2} style={{width:'75%', height:'55%'}} alt="stock screener"/> */}
 
 

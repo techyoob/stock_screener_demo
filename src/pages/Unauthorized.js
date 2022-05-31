@@ -9,7 +9,7 @@ const Unauthorized = () => {
         <section>
             <h1>Unauthorized</h1>
             <br />
-            <p>You do not have access to the requested page.</p>
+            <p>Canno't access contents.</p>
             <div className="flexGrow">
                 <button onClick={goBack}>Go Back</button>
             </div>

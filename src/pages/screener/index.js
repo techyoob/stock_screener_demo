@@ -149,7 +149,6 @@ const useStyles = ({isLargeScreen, isMidScreen, isSmallScreen}) => makeStyles(th
     );
 };
 
-
 export default ScreenerDashboard;
 
 

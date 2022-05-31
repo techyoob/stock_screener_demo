@@ -1,20 +1,6 @@
 
 
 
-/* .table-elements {
-    scrollbar-width: none; 
-    -ms-overflow-style: none; 
-    overflow-x: auto;
-    overflow-y: hidden;
-}
-.table-elements::-webkit-scrollbar { 
-    display: none; 
-}
- */
-
-
-
-
 .list-container {
     display: flex;
     flex-direction: column-reverse;
@@ -92,14 +78,6 @@
 }
 
 
-/* .list-footer {
-
-    background-color: violet;
-
-} */
-/* .updated-at-container {
- 
-} */
 .refresh-list-data-button {
     display: flex;
     justify-items: center;
@@ -118,16 +96,6 @@
 .refresh-list-data-button:active {
     color: #a781806e;
 }
-/* .pagination-container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
-    width: 50%;
-    height: 100%;
-    color: #a7a7a7;
-} */
-
 
 
 
@@ -138,10 +106,7 @@
     width: 100px;
 }
 
-/* .list-column- {
-    width: 100px;
-    background-color: #9db86d;
-} */
+
 .list-column-stock {
     display: flex;
     justify-content: center;
@@ -173,15 +138,7 @@
 .stock-last-price {
     font-size: 15px;
 }
-/* .stock-last-price span{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    align-self: center;
-    width: 70%;
-    height: 50%;
-    border-radius: 20px;
-} */
+
 
 .list-column-change {
     display: flex;
@@ -218,20 +175,3 @@
     border-radius: 20px;
 }
 
-
-/**********************************************
-        GASS comon list column components
-***********************************************/
-
-/* .row-per-page-select {
-    
-
-} */
-
-
-
-
-
-/* {column.format && typeof value === "number"
-    ? column.format(value)
-    : value} */

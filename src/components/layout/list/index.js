@@ -267,7 +267,7 @@ export default List;
 
 
 // /**********************************************
-//         GASS comon list footer components
+//         Stock Screener comon list footer components
 // ***********************************************/
 
 

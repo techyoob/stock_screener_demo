@@ -15,7 +15,7 @@ import React, {useEffect, useState} from 'react';
 
 // Application
 import './gass.css'
-import {ReactComponent as GASSLogo} from '../../assets/svg/stock-screener.svg';
+import {ReactComponent as ScreenerLogo} from '../../assets/svg/stock-screener.svg';
 // import useTradersQuery from '../../services/useTradersQuery';
 
 
@@ -25,7 +25,7 @@ import {ReactComponent as GASSLogo} from '../../assets/svg/stock-screener.svg';
 export const StockCompanyLogo = () => {
     return (
         <div className='company-logo-circled-frame' >
-            <GASSLogo width={"55%"} height={"55%"} fill="#796f47"/>
+            <ScreenerLogo width={"55%"} height={"55%"} fill="#796f47"/>
         </div>
     );
 };

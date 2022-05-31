@@ -189,37 +189,6 @@ const ColumnsFilter = (props) => {
 
 
 
-
-    // const requiredColumns = ['ticker', 'company', 'last'];
-    // const optionalColumns = ['change', 'change_percentage', 'market_cap'];
-
-    // const initialColumns = filterState.filter(item => requiredColumns.indexOf(item) === -1)
-    // const [selectedColumns, setSelectedColumns] = useState(initialColumns);
-
-    // const handleChange = (event) => {
-    //     const isChecked =  event.target.checked;
-    //     const value = event.target.value;
-
-    //     if(isChecked){
-    //         if (!selectedColumns.includes(value)){
-
-    //             const newSelectedColumns = [...selectedColumns, value];
-    //             const newFilterState = requiredColumns.concat(newSelectedColumns)
-    //             setFilterState(newFilterState);
-    //             setSelectedColumns(newSelectedColumns)
-    //         }
-    //     } else {
-    //         const filteredArray = selectedColumns.filter(function(e) { return e !== value })
-    //         setFilterState(requiredColumns.concat(filteredArray));
-    //         setSelectedColumns(filteredArray)
-    //     }
-        
-    // };
-
-
-    // defaultChecked={selectedColumns.includes(column)}
-
-
     return (
         <div className='columns-filter-list' >
             {Object.keys(classicsListColumns).map((type, i)=>{
@@ -252,23 +221,4 @@ const ColumnsFilter = (props) => {
 
 
 
-    // return (
-    //     <div className='column-filter-list' >
-    //         {optionalColumns.map((column, i)=>{
-    //             // console.log(' filterState.includes(column) ', filterState);
-    //             return (
-    //                 <label className='exchange-filter-item' key={i}>
-    //                     <input
-    //                         value={column}
-    //                         type="checkbox"
-    //                         name="columns"
-    //                         onChange={handleChange}
-    //                         defaultChecked={selectedColumns.includes(column)}
-    //                     />
-    //                     <span>{column.replace(/_/g, ' ')}</span>
-    //                 </label>
-    //             )
-    //         })}
-    //     </div>
-    // );
 };

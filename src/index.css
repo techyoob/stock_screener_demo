@@ -10,7 +10,6 @@
 html {
     font-family: 'Nunito', sans-serif;
     font-size: 22px;
-    color: #bb1212;
 }
 
 body {
@@ -41,7 +40,7 @@ form {
 }
 
 a, a:visited {
-    color: #fff;
+    color: #53a2a9;
 }
 
 
@@ -79,12 +78,12 @@ button {
 }
 
 .valid {
-    color: limegreen;
+    color: #53a2a9;
     margin-left: 0.25rem;
 }
 
 .invalid {
-    color: red;
+    color: #aa5377;
     margin-left: 0.25rem;
 }
 

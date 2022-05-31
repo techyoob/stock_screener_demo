@@ -82,18 +82,3 @@ export default withNotificationModal;
 
 
 
-
-
-{/* <div className="strips-toggler-button"
-onClick={()=>setShowNotificationModal(true)}>
-<FaBell />
-</div>
-<Modal
-show={showNotificationModal}
-onHide={hideNotificationModal}
-renderBackdrop={defaultRenderBackdrop}
-aria-labelledby="modal-label">
-    <Notification onHideModal={hideNotificationModal}/>
-</Modal> */}
-
-

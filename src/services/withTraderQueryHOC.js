@@ -18,7 +18,7 @@ import {
 import { getAccessToken } from './authService';
   
 
-const baseURL = process.env.REACT_APP_GASS_TRADERS_API
+const baseURL = "localhost/traders"
 
 
 

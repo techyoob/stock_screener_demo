@@ -75,66 +75,6 @@ const FilterBody = (props) => {
 
 
 
-
-
-
-
-
-
-// const FilterBody = ({ filterName, onApplyFilter, defaultFilterState }) => {
-
-//     const [filterState, setFilterState]=useState(defaultFilterState)
-
-//     const [props, { toggle, show, onClose }]  = useDropdownMenu({
-//         flip: true,
-//         offset: [0, 8],
-//     });
-
-
-
-    
-//     const onApply = () => {
-
-//         onApplyFilter(filterState)
-//         toggle(false)
-//     }
-
-//     const onCancel = () => {
-
-//         // onApplyFilter(filterState)
-//         console.log(" canceling is iii  ");
-//         toggle(false)
-//     }
-
-
-//     // const onApply = () => {
-
-//     //     onApplyFilter({[filterName]:filterState} )
-//     //     toggle(false)
-//     // }
-
-
-//     return (
-//         <div 
-//             className="fundamentals-filter-body"
-//             {...props}>
-//                 {loadFilterComponent({filterName, filterState, setFilterState})[filterName]}
-//                 <div className='filter-box-footer'>
-//                     <div 
-//                         className='filter-box-cancel'
-//                         onClick={onCancel}>
-//                             Cancel
-//                     </div>
-//                     <div 
-//                         className='filter-box-apply'
-//                         onClick={onApply}>
-//                             Apply
-//                     </div>
-//                 </div>
-//         </div>
-//     );
-// };
-
 const Toggle = ({ id, filterName }) => {
     const [props, { show, toggle }] = useDropdownToggle();
 
