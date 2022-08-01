@@ -1,6 +1,4 @@
 
-
-
 // Core
 import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
@@ -10,14 +8,26 @@ import PropTypes from 'prop-types';
 import { makeStyles } from '@mui/styles';
 import Dropdown from "react-overlays/Dropdown";
 import { useDropdownMenu, useDropdownToggle } from "react-overlays";
+import { 
+    FaMapMarkerAlt,
+    FaExchangeAlt,
+    FaRegMoneyBillAlt,
+    FaColumns,
+    FaThLarge
+  } from 'react-icons/fa';
 
+import Stack from '@mui/material/Stack';
+import Tabs from '@mui/material/Tabs';
+import Tab from '@mui/material/Tab';
 
 
 
 
 // Application
+import CapMap from '../../feature/CapMap';
+import VolMap from '../../feature/VolMap';
+
 import { FilterComponent } from '../../components/controls/filter';
-import { abbreviateNumber } from '../../util/abbreviateNumber';
 import List from '../../components/layout/list';
 import Throbber from '../../components/controls/throbber';
 
@@ -25,8 +35,45 @@ import useWindowDimensions from '../../services/useWindowDimensions';
 
 import useTradersQuery from '../../services/useTradersQuery';
 import ScreenerModes from '../../components/layout/screenerModes';
+
 import {ReactComponent as ComingSoon} from '../../assets/svg/coming-soon.svg';
 import fundamentalsListSample from '../../data/fundamentals.json'
+
+
+
+
+
+const useStyles = makeStyles((theme) => ({
+    graphicsTab: {
+        display: 'flex',
+        height:'30px',
+        borderRadius:'10px',
+        marginLeft:'10px',
+        paddingLeft:'10px',
+        paddingRight:'10px',
+        textTransform: 'capitalize',
+        border: '1px solid #a7a7a7',
+        fontSize: '15px',
+        alignItems: 'center',
+    },
+    tabText: {
+        marginRight:'10px',
+    },
+    selectedGraphicsTab: {
+        backgroundColor:'rgb(25, 42, 69)'
+    }
+}));
+
+
+
+
+
+/***************************************************************************************************
+*
+*               Fundamentals - Main Feature
+*
+*****************************************************************************************************/
+
 
 
 const fundamentalsModes = ['classics', 'graphics'];
@@ -54,16 +101,33 @@ const Fundamentals = props => {
 };
 
 
+Fundamentals.propTypes = {
+
+};
+
+export default Fundamentals;
 
 
 
 
-const classicsListColumns = {
-    price:["last", "change", "change_percentage", "volume", "market_cap"],
-    profile:["country", "exchange", "sector", ]
-}
 
 
+
+// const classicsListColumns = {
+//     price:["last", "change", "change_percentage", "volume", "market_cap"],
+//     profile:["country", "exchange", "sector", ]
+// }
+
+
+
+
+
+
+/***************************************************************************************************
+*
+*               Fundamentals - Classics Feature 
+*
+*****************************************************************************************************/
 
 
 
@@ -142,7 +206,7 @@ const FundamentalsClassics = (props) => {
 
     return (
         <React.Fragment>
-            <div className='fundamentals-classics-filter-options-bar'>
+            <div className='fundamentals-feature-options-bar-container'>
                 <FilterComponent
                         filterName={'columns'}
                         onFilterStateChange={onColumnChange}
@@ -156,7 +220,7 @@ const FundamentalsClassics = (props) => {
                                 filterState={query?.filter[name]}/>)
                 })}
             </div>
-            <div className='fundamentals-classics-list-container'>
+            <div className='fundamentals-feature-body-container'>
                 {isLoading
                     ? <Throbber />
                     : <List
@@ -180,50 +244,51 @@ const FundamentalsClassics = (props) => {
 
 
 
-const useStyles = makeStyles((theme) => ({
-    tabsRoot: {
-        display:'flex',
-        justifyContent:'center',
-        alignItems:'center',
-        marginTop: '100px'
-    }
-}));
+
+
+
+
+
+/***************************************************************************************************
+*
+*               Fundamentals - Graphics Feature 
+*
+*****************************************************************************************************/
+
+
 
 
 
 const FundamentalsGraphics = (props) => {
     const classes = useStyles();
-    // const filters = Object.keys(defaultGraphicsQuery?.filter)
-    // // const [sortBy, setSortBy ] = useState(fundamentalsModes[0])
-    // const [query, setQuery] = useState(defaultClassicsQuery)
-
-    // const [fundamentals, setFundamentals] = useState([])
-    // const [paginationSize, setPaginationSize] = useState(0)
-    // const [updatedAt, setUpdatedAt]=useState('')
-
-
-    // const {status, data, isLoading, isSuccess, error, refetch }  = useTradersQuery({ selectedPage:'fundamentals', endpoint:'classics', query})
+    const graphicsItems = ['cap map', 'vol map']
+    const [selectedGraphics, setSelectedGraphics] = useState(graphicsItems[0])
 
 
 
-    // useEffect(()=>{
-    //     refetch({cancelRefetch:true})
-    // }, [query])
+    const onChangeGraphics = (select) => {
+        setSelectedGraphics(select)
+    }
 
     return (
-        <div className={classes.tabsRoot} >
-            <ComingSoon height={'50%'} width={'50%'}/>
-        </div>
+        <React.Fragment>
+            <div className='fundamentals-feature-options-bar-container'>
+                {graphicsItems.map((item, i)=>{
+                    return (
+                        <div key={i} className={`${classes.graphicsTab} ${item == selectedGraphics ? classes.selectedGraphicsTab : ''}`}
+                            onClick={()=>onChangeGraphics(item)} >
+                            <span className={classes.tabText}>{item}</span>
+                            <FaThLarge />
+                        </div>)
+                })}
+            </div>
+            <div className='fundamentals-feature-body-container'>
+                {selectedGraphics == 'cap map' && <CapMap />}
+                {selectedGraphics == 'vol map' && <VolMap />}
+            </div>
+        </React.Fragment>
     );
 };
-
-
-
-Fundamentals.propTypes = {
-
-};
-
-export default Fundamentals;
 
 
 

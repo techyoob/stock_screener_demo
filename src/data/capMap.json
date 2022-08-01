@@ -1,0 +1,779 @@
+{
+    "data": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "change_percentage": 0.4170158,
+                        "last": 12.04,
+                        "market_cap": 2039600128.0,
+                        "name": "AEO"
+                    },
+                    {
+                        "change_percentage": -0.543543,
+                        "last": 86.0,
+                        "market_cap": 7489713664.0,
+                        "name": "ALV"
+                    },
+                    {
+                        "change_percentage": 10.3614645,
+                        "last": 134.95,
+                        "market_cap": 1373035298816.0,
+                        "name": "AMZN"
+                    },
+                    {
+                        "change_percentage": -0.502794,
+                        "last": 17.81,
+                        "market_cap": 898459264.0,
+                        "name": "ANF"
+                    },
+                    {
+                        "change_percentage": 1.28428,
+                        "last": 104.89,
+                        "market_cap": 28417953792.0,
+                        "name": "APTV"
+                    },
+                    {
+                        "change_percentage": -11.118846,
+                        "last": 89.37,
+                        "market_cap": 237023543296.0,
+                        "name": "BABA"
+                    },
+                    {
+                        "change_percentage": 3.9256208,
+                        "last": 5.03,
+                        "market_cap": 402186752.0,
+                        "name": "BBBY"
+                    },
+                    {
+                        "change_percentage": -1.28222,
+                        "last": 76.99,
+                        "market_cap": 17335683072.0,
+                        "name": "BBY"
+                    },
+                    {
+                        "change_percentage": 3.0839167,
+                        "last": 20.39,
+                        "market_cap": 1808652032.0,
+                        "name": "BLMN"
+                    },
+                    {
+                        "change_percentage": -0.359003,
+                        "last": 55.51,
+                        "market_cap": 6083007488.0,
+                        "name": "BYD"
+                    }
+                ],
+                "name": "Consumer Cyclical"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 3.279306,
+                        "last": 162.51,
+                        "market_cap": 2639649832960.0,
+                        "name": "AAPL"
+                    },
+                    {
+                        "change_percentage": 0.849584,
+                        "last": 306.26,
+                        "market_cap": 193879736320.0,
+                        "name": "ACN"
+                    },
+                    {
+                        "change_percentage": 1.6406431,
+                        "last": 410.12,
+                        "market_cap": 191936151552.0,
+                        "name": "ADBE"
+                    },
+                    {
+                        "change_percentage": 1.9607861,
+                        "last": 216.32,
+                        "market_cap": 47000281088.0,
+                        "name": "ADSK"
+                    },
+                    {
+                        "change_percentage": 1.7339811,
+                        "last": 96.22,
+                        "market_cap": 15424546816.0,
+                        "name": "AKAM"
+                    },
+                    {
+                        "change_percentage": 2.0616746,
+                        "last": 58.91,
+                        "market_cap": 4699238912.0,
+                        "name": "ALTR"
+                    },
+                    {
+                        "change_percentage": 0.7797638,
+                        "last": 105.98,
+                        "market_cap": 92196986880.0,
+                        "name": "AMAT"
+                    },
+                    {
+                        "change_percentage": 3.0544379,
+                        "last": 94.47,
+                        "market_cap": 153089572864.0,
+                        "name": "AMD"
+                    },
+                    {
+                        "change_percentage": 0.3504423,
+                        "last": 535.48,
+                        "market_cap": 216857608192.0,
+                        "name": "AVGO"
+                    },
+                    {
+                        "change_percentage": -57.004784,
+                        "last": 0.8986,
+                        "market_cap": 81192376.0,
+                        "name": "AVYA"
+                    }
+                ],
+                "name": "Technology"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 0.31821766,
+                        "last": 12.61,
+                        "market_cap": 6591246848.0,
+                        "name": "AGNC"
+                    },
+                    {
+                        "change_percentage": 2.4630518,
+                        "last": 8.32,
+                        "market_cap": 1270322560.0,
+                        "name": "AIV"
+                    },
+                    {
+                        "change_percentage": 1.04028,
+                        "last": 37.88,
+                        "market_cap": 14679144448.0,
+                        "name": "AMH"
+                    },
+                    {
+                        "change_percentage": 0.717736,
+                        "last": 270.83,
+                        "market_cap": 126080024576.0,
+                        "name": "AMT"
+                    },
+                    {
+                        "change_percentage": 0.788639,
+                        "last": 12.78,
+                        "market_cap": 1796816896.0,
+                        "name": "ARI"
+                    },
+                    {
+                        "change_percentage": 1.4099796,
+                        "last": 9.35,
+                        "market_cap": 1613408000.0,
+                        "name": "BDN"
+                    },
+                    {
+                        "change_percentage": -0.545922,
+                        "last": 30.97,
+                        "market_cap": 5274036224.0,
+                        "name": "BXMT"
+                    },
+                    {
+                        "change_percentage": 1.19894,
+                        "last": 91.16,
+                        "market_cap": 14287142912.0,
+                        "name": "BXP"
+                    },
+                    {
+                        "change_percentage": 1.0742577,
+                        "last": 85.62,
+                        "market_cap": 27985838080.0,
+                        "name": "CBRE"
+                    },
+                    {
+                        "change_percentage": -0.303517,
+                        "last": 180.66,
+                        "market_cap": 78231560192.0,
+                        "name": "CCI"
+                    }
+                ],
+                "name": "Real Estate"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -2.0833395,
+                        "last": 2.82,
+                        "market_cap": 44384825344.0,
+                        "name": "ABEV"
+                    },
+                    {
+                        "change_percentage": 4.31002,
+                        "last": 82.77,
+                        "market_cap": 46397714432.0,
+                        "name": "ADM"
+                    },
+                    {
+                        "change_percentage": 3.36991,
+                        "last": 92.33,
+                        "market_cap": 14024742912.0,
+                        "name": "BG"
+                    },
+                    {
+                        "change_percentage": 2.64362,
+                        "last": 20.19,
+                        "market_cap": 583844352.0,
+                        "name": "BIG"
+                    },
+                    {
+                        "change_percentage": -2.8846128,
+                        "last": 3.03,
+                        "market_cap": 3264582656.0,
+                        "name": "BRFS"
+                    },
+                    {
+                        "change_percentage": -4.463419,
+                        "last": 39.17,
+                        "market_cap": 89392209920.0,
+                        "name": "BTI"
+                    },
+                    {
+                        "change_percentage": 0.64724153,
+                        "last": 34.21,
+                        "market_cap": 16423947264.0,
+                        "name": "CAG"
+                    },
+                    {
+                        "change_percentage": -8.564596,
+                        "last": 87.97,
+                        "market_cap": 21356566528.0,
+                        "name": "CHD"
+                    },
+                    {
+                        "change_percentage": -0.568259,
+                        "last": 78.74,
+                        "market_cap": 65979551744.0,
+                        "name": "CL"
+                    },
+                    {
+                        "change_percentage": 0.9549023,
+                        "last": 541.3,
+                        "market_cap": 239775875072.0,
+                        "name": "COST"
+                    }
+                ],
+                "name": "Consumer Defensive"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 3.68785,
+                        "last": 50.89,
+                        "market_cap": 9156382720.0,
+                        "name": "AA"
+                    },
+                    {
+                        "change_percentage": 2.3327858,
+                        "last": 42.99,
+                        "market_cap": 19593811968.0,
+                        "name": "AEM"
+                    },
+                    {
+                        "change_percentage": 2.5435083,
+                        "last": 7.66,
+                        "market_cap": 2013453824.0,
+                        "name": "AG"
+                    },
+                    {
+                        "change_percentage": 3.1372519,
+                        "last": 7.89,
+                        "market_cap": 3090441984.0,
+                        "name": "AGI"
+                    },
+                    {
+                        "change_percentage": 1.18378,
+                        "last": 136.76,
+                        "market_cap": 2559134976.0,
+                        "name": "AMR"
+                    },
+                    {
+                        "change_percentage": -0.436035,
+                        "last": 100.47,
+                        "market_cap": 5437928960.0,
+                        "name": "ASH"
+                    },
+                    {
+                        "change_percentage": -1.0094187,
+                        "last": 14.71,
+                        "market_cap": 6153781248.0,
+                        "name": "AU"
+                    },
+                    {
+                        "change_percentage": 0.63158333,
+                        "last": 4.78,
+                        "market_cap": 4593766400.0,
+                        "name": "AUY"
+                    },
+                    {
+                        "change_percentage": 0.0793593,
+                        "last": 25.22,
+                        "market_cap": 5562220544.0,
+                        "name": "AXTA"
+                    },
+                    {
+                        "change_percentage": 1.8881904,
+                        "last": 55.04,
+                        "market_cap": 192590462976.0,
+                        "name": "BHP"
+                    }
+                ],
+                "name": "Basic Materials"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 5.8951044,
+                        "last": 24.43,
+                        "market_cap": 12399226880.0,
+                        "name": "DISCA"
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 10.7,
+                        "market_cap": 292397824.0,
+                        "name": "HBP"
+                    },
+                    {
+                        "change_percentage": -4.96453,
+                        "last": 1.34,
+                        "market_cap": 216463600.0,
+                        "name": "ONE"
+                    }
+                ],
+                "name": "Services"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -0.3633735,
+                        "last": 13.71,
+                        "market_cap": 8909388800.0,
+                        "name": "AAL"
+                    },
+                    {
+                        "change_percentage": 2.7749631,
+                        "last": 30.37,
+                        "market_cap": 58194993152.0,
+                        "name": "ABB"
+                    },
+                    {
+                        "change_percentage": 0.68481684,
+                        "last": 241.12,
+                        "market_cap": 100727152640.0,
+                        "name": "ADP"
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 7.3,
+                        "market_cap": 6616121856.0,
+                        "name": "ADT"
+                    },
+                    {
+                        "change_percentage": 0.335499,
+                        "last": 44.86,
+                        "market_cap": 11025870848.0,
+                        "name": "AER"
+                    },
+                    {
+                        "change_percentage": 0.390746,
+                        "last": 33.4,
+                        "market_cap": 8593887232.0,
+                        "name": "ARMK"
+                    },
+                    {
+                        "change_percentage": 2.12981,
+                        "last": 30.21,
+                        "market_cap": 3195734528.0,
+                        "name": "ARNC"
+                    },
+                    {
+                        "change_percentage": 0.646987,
+                        "last": 24.89,
+                        "market_cap": 3089670400.0,
+                        "name": "ATI"
+                    },
+                    {
+                        "change_percentage": 2.07929,
+                        "last": 89.35,
+                        "market_cap": 4145008896.0,
+                        "name": "AWI"
+                    },
+                    {
+                        "change_percentage": 0.138287,
+                        "last": 159.31,
+                        "market_cap": 94542675968.0,
+                        "name": "BA"
+                    }
+                ],
+                "name": "Industrials"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 2.8942692,
+                        "last": 8.71,
+                        "market_cap": 411498720.0,
+                        "name": "ZTR"
+                    }
+                ],
+                "name": "Financial"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -0.10554331,
+                        "last": 18.93,
+                        "market_cap": 60403736576.0,
+                        "name": "AMX"
+                    },
+                    {
+                        "change_percentage": -2.29948,
+                        "last": 35.69,
+                        "market_cap": 4480700928.0,
+                        "name": "ATHM"
+                    },
+                    {
+                        "change_percentage": 0.553383,
+                        "last": 79.95,
+                        "market_cap": 62511386624.0,
+                        "name": "ATVI"
+                    },
+                    {
+                        "change_percentage": -4.4691057,
+                        "last": 0.637,
+                        "market_cap": 91421608.0,
+                        "name": "AUD"
+                    },
+                    {
+                        "change_percentage": -2.8662865,
+                        "last": 136.57,
+                        "market_cap": 47191904256.0,
+                        "name": "BIDU"
+                    },
+                    {
+                        "change_percentage": -4.795736,
+                        "last": 37.52,
+                        "market_cap": 167735787520.0,
+                        "name": "CMCSA"
+                    },
+                    {
+                        "change_percentage": 1.1439437,
+                        "last": 106.1,
+                        "market_cap": 193259012096.0,
+                        "name": "DIS"
+                    },
+                    {
+                        "change_percentage": 5.8058934,
+                        "last": 24.42,
+                        "market_cap": 12419523584.0,
+                        "name": "DISCK"
+                    },
+                    {
+                        "change_percentage": -3.7673042,
+                        "last": 17.37,
+                        "market_cap": 8991823872.0,
+                        "name": "DISH"
+                    },
+                    {
+                        "change_percentage": -1.4641815,
+                        "last": 131.23,
+                        "market_cap": 36930613248.0,
+                        "name": "EA"
+                    }
+                ],
+                "name": "Communication Services"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 4.3514857,
+                        "last": 37.17,
+                        "market_cap": 12572083200.0,
+                        "name": "APA"
+                    },
+                    {
+                        "change_percentage": 2.747531,
+                        "last": 39.64,
+                        "market_cap": 12331408384.0,
+                        "name": "AR"
+                    },
+                    {
+                        "change_percentage": 0.09136801,
+                        "last": 21.91,
+                        "market_cap": 2786842368.0,
+                        "name": "ARLP"
+                    },
+                    {
+                        "change_percentage": 3.1963463,
+                        "last": 29.38,
+                        "market_cap": 93279436800.0,
+                        "name": "BP"
+                    },
+                    {
+                        "change_percentage": -5.02263,
+                        "last": 20.99,
+                        "market_cap": 3018361856.0,
+                        "name": "BTU"
+                    },
+                    {
+                        "change_percentage": 0.9005464,
+                        "last": 25.77,
+                        "market_cap": 10266846208.0,
+                        "name": "CCJ"
+                    },
+                    {
+                        "change_percentage": 1.0622108,
+                        "last": 6.66,
+                        "market_cap": 1898053248.0,
+                        "name": "CDEV"
+                    },
+                    {
+                        "change_percentage": 1.3779727,
+                        "last": 94.17,
+                        "market_cap": 11977105408.0,
+                        "name": "CHK"
+                    },
+                    {
+                        "change_percentage": 2.42343,
+                        "last": 68.89,
+                        "market_cap": 25004933120.0,
+                        "name": "CLR"
+                    },
+                    {
+                        "change_percentage": 3.5453,
+                        "last": 55.2,
+                        "market_cap": 63719567360.0,
+                        "name": "CNQ"
+                    }
+                ],
+                "name": "Energy"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -3.36533,
+                        "last": 69.49,
+                        "market_cap": 22507395072.0,
+                        "name": "BLL"
+                    }
+                ],
+                "name": "Consumer Goods"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 0.0,
+                        "last": 47.99,
+                        "market_cap": 1512275328.0,
+                        "name": "ECOL"
+                    }
+                ],
+                "name": "Industrial Goods"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 2.2805321,
+                        "last": 134.1,
+                        "market_cap": 40056745984.0,
+                        "name": "A"
+                    },
+                    {
+                        "change_percentage": -4.1669483,
+                        "last": 143.51,
+                        "market_cap": 255968722944.0,
+                        "name": "ABBV"
+                    },
+                    {
+                        "change_percentage": -1.3773146,
+                        "last": 108.84,
+                        "market_cap": 190572314624.0,
+                        "name": "ABT"
+                    },
+                    {
+                        "change_percentage": 1.5058807,
+                        "last": 82.91,
+                        "market_cap": 7505569280.0,
+                        "name": "ACHC"
+                    },
+                    {
+                        "change_percentage": -1.0312227,
+                        "last": 142.04,
+                        "market_cap": 17160419328.0,
+                        "name": "ALNY"
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 182.5,
+                        "market_cap": 40335970304.0,
+                        "name": "ALXN"
+                    },
+                    {
+                        "change_percentage": -0.9129125,
+                        "last": 247.47,
+                        "market_cap": 132198473728.0,
+                        "name": "AMGN"
+                    },
+                    {
+                        "change_percentage": -2.69148,
+                        "last": 112.44,
+                        "market_cap": 5028080640.0,
+                        "name": "AMN"
+                    },
+                    {
+                        "change_percentage": 2.705,
+                        "last": 482.58,
+                        "market_cap": 116342792192.0,
+                        "name": "ANTM"
+                    },
+                    {
+                        "change_percentage": -0.7344093,
+                        "last": 66.23,
+                        "market_cap": 205244121088.0,
+                        "name": "AZN"
+                    }
+                ],
+                "name": "Healthcare"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 0.9629121,
+                        "last": 98.56,
+                        "market_cap": 50659840000.0,
+                        "name": "AEP"
+                    },
+                    {
+                        "change_percentage": 0.44299603,
+                        "last": 22.22,
+                        "market_cap": 14839847936.0,
+                        "name": "AES"
+                    },
+                    {
+                        "change_percentage": 0.29184967,
+                        "last": 68.73,
+                        "market_cap": 19940567040.0,
+                        "name": "CMS"
+                    },
+                    {
+                        "change_percentage": 0.6031763,
+                        "last": 31.69,
+                        "market_cap": 19947239424.0,
+                        "name": "CNP"
+                    },
+                    {
+                        "change_percentage": 0.81161296,
+                        "last": 81.98,
+                        "market_cap": 68288192512.0,
+                        "name": "D"
+                    },
+                    {
+                        "change_percentage": 0.8994983,
+                        "last": 109.93,
+                        "market_cap": 86565920768.0,
+                        "name": "DUK"
+                    },
+                    {
+                        "change_percentage": 0.8021865,
+                        "last": 99.27,
+                        "market_cap": 36196323328.0,
+                        "name": "ED"
+                    },
+                    {
+                        "change_percentage": 3.4814458,
+                        "last": 67.77,
+                        "market_cap": 26689789952.0,
+                        "name": "EIX"
+                    },
+                    {
+                        "change_percentage": -0.04532168,
+                        "last": 88.22,
+                        "market_cap": 31514214400.0,
+                        "name": "ES"
+                    },
+                    {
+                        "change_percentage": 0.4754727,
+                        "last": 46.49,
+                        "market_cap": 47424917504.0,
+                        "name": "EXC"
+                    }
+                ],
+                "name": "Utilities"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 2.8037355,
+                        "last": 4.4,
+                        "market_cap": 8821252096.0,
+                        "name": "AEG"
+                    },
+                    {
+                        "change_percentage": 1.55973,
+                        "last": 57.3,
+                        "market_cap": 36910653440.0,
+                        "name": "AFL"
+                    },
+                    {
+                        "change_percentage": 1.90227,
+                        "last": 58.39,
+                        "market_cap": 3744585728.0,
+                        "name": "AGO"
+                    },
+                    {
+                        "change_percentage": 2.53515,
+                        "last": 51.77,
+                        "market_cap": 41011781632.0,
+                        "name": "AIG"
+                    },
+                    {
+                        "change_percentage": 2.3839,
+                        "last": 33.07,
+                        "market_cap": 10448367616.0,
+                        "name": "ALLY"
+                    },
+                    {
+                        "change_percentage": -3.5803144,
+                        "last": 19.39,
+                        "market_cap": 9622054912.0,
+                        "name": "ARCC"
+                    },
+                    {
+                        "change_percentage": 1.36158,
+                        "last": 20.1,
+                        "market_cap": 3017532672.0,
+                        "name": "ASB"
+                    },
+                    {
+                        "change_percentage": 1.2357072,
+                        "last": 154.02,
+                        "market_cap": 115476185088.0,
+                        "name": "AXP"
+                    },
+                    {
+                        "change_percentage": 1.47059,
+                        "last": 33.81,
+                        "market_cap": 271670804480.0,
+                        "name": "BAC"
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 17.51,
+                        "market_cap": 1058708864.0,
+                        "name": "BANC"
+                    }
+                ],
+                "name": "Financial Services"
+            }
+        ],
+        "updated": "01/08/2022 10:07:26"
+    },
+    "status": "success"
+}

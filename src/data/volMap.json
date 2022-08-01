@@ -1,0 +1,779 @@
+{
+    "data": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "change_percentage": 51.56728,
+                        "last": 0.793,
+                        "name": "NRXP",
+                        "volume": 104601577.0
+                    },
+                    {
+                        "change_percentage": -13.853027,
+                        "last": 0.1735,
+                        "name": "TLGT",
+                        "volume": 72246596.0
+                    },
+                    {
+                        "change_percentage": -23.353844,
+                        "last": 0.2491,
+                        "name": "ATHX",
+                        "volume": 69326148.0
+                    },
+                    {
+                        "change_percentage": -23.087246,
+                        "last": 17.19,
+                        "name": "SIGA",
+                        "volume": 48887919.0
+                    },
+                    {
+                        "change_percentage": -9.411765,
+                        "last": 4.62,
+                        "name": "BHC",
+                        "volume": 38310624.0
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 94.92,
+                        "name": "CERN",
+                        "volume": 38200339.0
+                    },
+                    {
+                        "change_percentage": -10.160431,
+                        "last": 1.68,
+                        "name": "TNXP",
+                        "volume": 36237436.0
+                    },
+                    {
+                        "change_percentage": -5.864199,
+                        "last": 3.05,
+                        "name": "OBLN",
+                        "volume": 26469075.0
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 18.44,
+                        "name": "TRIL",
+                        "volume": 26174709.0
+                    },
+                    {
+                        "change_percentage": -0.41404358,
+                        "last": 50.51,
+                        "name": "PFE",
+                        "volume": 24902023.0
+                    }
+                ],
+                "name": "Healthcare"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 0.0,
+                        "last": 4.81,
+                        "name": "ENIA",
+                        "volume": 32429828.0
+                    },
+                    {
+                        "change_percentage": 0.7421143,
+                        "last": 10.86,
+                        "name": "PCG",
+                        "volume": 11413868.0
+                    },
+                    {
+                        "change_percentage": -0.05914721,
+                        "last": 84.49,
+                        "name": "NEE",
+                        "volume": 11026203.0
+                    },
+                    {
+                        "change_percentage": 1.5877292,
+                        "last": 37.75,
+                        "name": "NRG",
+                        "volume": 7906809.0
+                    },
+                    {
+                        "change_percentage": 1.5703285,
+                        "last": 30.4,
+                        "name": "NI",
+                        "volume": 7629429.0
+                    },
+                    {
+                        "change_percentage": 1.3844978,
+                        "last": 76.89,
+                        "name": "SO",
+                        "volume": 7552557.0
+                    },
+                    {
+                        "change_percentage": 1.0072907,
+                        "last": 29.08,
+                        "name": "PPL",
+                        "volume": 7080292.0
+                    },
+                    {
+                        "change_percentage": 0.9629121,
+                        "last": 98.56,
+                        "name": "AEP",
+                        "volume": 5272326.0
+                    },
+                    {
+                        "change_percentage": 4.1498823,
+                        "last": 25.85,
+                        "name": "VST",
+                        "volume": 4809913.0
+                    },
+                    {
+                        "change_percentage": 0.44299603,
+                        "last": 22.22,
+                        "name": "AES",
+                        "volume": 4630322.0
+                    }
+                ],
+                "name": "Utilities"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -3.36533,
+                        "last": 69.49,
+                        "name": "BLL",
+                        "volume": 2934845.0
+                    }
+                ],
+                "name": "Consumer Goods"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -2.4613247,
+                        "last": 13.87,
+                        "name": "ISBC",
+                        "volume": 133025189.0
+                    },
+                    {
+                        "change_percentage": 1.47059,
+                        "last": 33.81,
+                        "name": "BAC",
+                        "volume": 47227337.0
+                    },
+                    {
+                        "change_percentage": -1.3157883,
+                        "last": 4.5,
+                        "name": "ITUB",
+                        "volume": 44000400.0
+                    },
+                    {
+                        "change_percentage": 4.20725,
+                        "last": 53.5,
+                        "name": "CIT",
+                        "volume": 32810120.0
+                    },
+                    {
+                        "change_percentage": -1.5909095,
+                        "last": 12.99,
+                        "name": "MARA",
+                        "volume": 31521005.0
+                    },
+                    {
+                        "change_percentage": 0.30211452,
+                        "last": 3.32,
+                        "name": "BBD",
+                        "volume": 22984716.0
+                    },
+                    {
+                        "change_percentage": -3.23886,
+                        "last": 26.29,
+                        "name": "STL",
+                        "volume": 19410604.0
+                    },
+                    {
+                        "change_percentage": -1.06639,
+                        "last": 28.76,
+                        "name": "BXS",
+                        "volume": 19263444.0
+                    },
+                    {
+                        "change_percentage": 2.17755,
+                        "last": 18.3,
+                        "name": "KEY",
+                        "volume": 17585261.0
+                    },
+                    {
+                        "change_percentage": 27.182037,
+                        "last": 10.2,
+                        "name": "GXGX",
+                        "volume": 17319220.0
+                    }
+                ],
+                "name": "Financial Services"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 20.989761,
+                        "last": 7.09,
+                        "name": "TBLT",
+                        "volume": 78885098.0
+                    },
+                    {
+                        "change_percentage": -1.69101,
+                        "last": 293.59,
+                        "name": "KSU",
+                        "volume": 40645849.0
+                    },
+                    {
+                        "change_percentage": -1.3407259,
+                        "last": 21.34,
+                        "name": "PLUG",
+                        "volume": 32829334.0
+                    },
+                    {
+                        "change_percentage": 0.742049,
+                        "last": 108.61,
+                        "name": "INFO",
+                        "volume": 29945829.0
+                    },
+                    {
+                        "change_percentage": -0.3633735,
+                        "last": 13.71,
+                        "name": "AAL",
+                        "volume": 25862243.0
+                    },
+                    {
+                        "change_percentage": 0.5602235,
+                        "last": 3.59,
+                        "name": "FCEL",
+                        "volume": 20209386.0
+                    },
+                    {
+                        "change_percentage": 0.59737384,
+                        "last": 8.42,
+                        "name": "JBLU",
+                        "volume": 11258342.0
+                    },
+                    {
+                        "change_percentage": 1.955228,
+                        "last": 32.33,
+                        "name": "CSX",
+                        "volume": 11040580.0
+                    },
+                    {
+                        "change_percentage": 0.315453,
+                        "last": 31.8,
+                        "name": "DAL",
+                        "volume": 8297308.0
+                    },
+                    {
+                        "change_percentage": 1.05278,
+                        "last": 73.91,
+                        "name": "GE",
+                        "volume": 7719500.0
+                    }
+                ],
+                "name": "Industrials"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 2.8942692,
+                        "last": 8.71,
+                        "name": "ZTR",
+                        "volume": 337828.0
+                    }
+                ],
+                "name": "Financial"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -1.4641274,
+                        "last": 13.46,
+                        "name": "VALE",
+                        "volume": 51698267.0
+                    },
+                    {
+                        "change_percentage": 5.766005,
+                        "last": 31.55,
+                        "name": "FCX",
+                        "volume": 25662147.0
+                    },
+                    {
+                        "change_percentage": 1.1869496,
+                        "last": 3.41,
+                        "name": "KGC",
+                        "volume": 20867423.0
+                    },
+                    {
+                        "change_percentage": -10.238173,
+                        "last": 29.02,
+                        "name": "AVTR",
+                        "volume": 19395424.0
+                    },
+                    {
+                        "change_percentage": 8.98617,
+                        "last": 23.65,
+                        "name": "X",
+                        "volume": 19078022.0
+                    },
+                    {
+                        "change_percentage": 0.703773,
+                        "last": 15.74,
+                        "name": "GOLD",
+                        "volume": 17420955.0
+                    },
+                    {
+                        "change_percentage": 0.42553154,
+                        "last": 4.72,
+                        "name": "GGB",
+                        "volume": 17339190.0
+                    },
+                    {
+                        "change_percentage": -1.31579,
+                        "last": 16.5,
+                        "name": "VEDL",
+                        "volume": 16853794.0
+                    },
+                    {
+                        "change_percentage": -1.15696,
+                        "last": 45.28,
+                        "name": "NEM",
+                        "volume": 14576615.0
+                    },
+                    {
+                        "change_percentage": -2.43235,
+                        "last": 64.18,
+                        "name": "BBL",
+                        "volume": 14421592.0
+                    }
+                ],
+                "name": "Basic Materials"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 5.8951044,
+                        "last": 24.43,
+                        "name": "DISCA",
+                        "volume": 22358922.0
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 10.7,
+                        "name": "HBP",
+                        "volume": 304279.0
+                    },
+                    {
+                        "change_percentage": -4.96453,
+                        "last": 1.34,
+                        "name": "ONE",
+                        "volume": 103292.0
+                    }
+                ],
+                "name": "Services"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -2.035929,
+                        "last": 8.18,
+                        "name": "ZNGA",
+                        "volume": 227573837.0
+                    },
+                    {
+                        "change_percentage": 2.1716652,
+                        "last": 9.88,
+                        "name": "SNAP",
+                        "volume": 73041708.0
+                    },
+                    {
+                        "change_percentage": -4.795736,
+                        "last": 37.52,
+                        "name": "CMCSA",
+                        "volume": 53477860.0
+                    },
+                    {
+                        "change_percentage": -23.071507,
+                        "last": 65.52,
+                        "name": "ROKU",
+                        "volume": 45841220.0
+                    },
+                    {
+                        "change_percentage": 1.0764303,
+                        "last": 18.78,
+                        "name": "T",
+                        "volume": 39553774.0
+                    },
+                    {
+                        "change_percentage": 1.8385557,
+                        "last": 116.32,
+                        "name": "GOOGL",
+                        "volume": 35554290.0
+                    },
+                    {
+                        "change_percentage": 1.7889894,
+                        "last": 116.64,
+                        "name": "GOOG",
+                        "volume": 31025373.0
+                    },
+                    {
+                        "change_percentage": 1.40505,
+                        "last": 46.19,
+                        "name": "VZ",
+                        "volume": 22414277.0
+                    },
+                    {
+                        "change_percentage": 0.50600845,
+                        "last": 196.64,
+                        "name": "FB",
+                        "volume": 22267154.0
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 20.99,
+                        "name": "VG",
+                        "volume": 19237807.0
+                    }
+                ],
+                "name": "Communication Services"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 6.6467466,
+                        "last": 14.28,
+                        "name": "PBR",
+                        "volume": 44740419.0
+                    },
+                    {
+                        "change_percentage": 4.6308303,
+                        "last": 96.93,
+                        "name": "XOM",
+                        "volume": 29689981.0
+                    },
+                    {
+                        "change_percentage": 5.040001,
+                        "last": 13.13,
+                        "name": "PBR-A",
+                        "volume": 26039231.0
+                    },
+                    {
+                        "change_percentage": 12.292363,
+                        "last": 3.38,
+                        "name": "RIG",
+                        "volume": 23710533.0
+                    },
+                    {
+                        "change_percentage": 1.29125,
+                        "last": 7.06,
+                        "name": "SWN",
+                        "volume": 20794522.0
+                    },
+                    {
+                        "change_percentage": 1.1627917,
+                        "last": 11.31,
+                        "name": "ET",
+                        "volume": 19447687.0
+                    },
+                    {
+                        "change_percentage": 4.96488,
+                        "last": 65.75,
+                        "name": "OXY",
+                        "volume": 19417808.0
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 22.25,
+                        "name": "COG",
+                        "volume": 18763905.0
+                    },
+                    {
+                        "change_percentage": 1.2807826,
+                        "last": 17.99,
+                        "name": "KMI",
+                        "volume": 18642349.0
+                    },
+                    {
+                        "change_percentage": 8.903517,
+                        "last": 163.78,
+                        "name": "CVX",
+                        "volume": 17039885.0
+                    }
+                ],
+                "name": "Energy"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 0.0,
+                        "last": 47.99,
+                        "name": "ECOL",
+                        "volume": 1034195.0
+                    }
+                ],
+                "name": "Industrial Goods"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -8.562069,
+                        "last": 36.31,
+                        "name": "INTC",
+                        "volume": 124785497.0
+                    },
+                    {
+                        "change_percentage": 3.279306,
+                        "last": 162.51,
+                        "name": "AAPL",
+                        "volume": 100878843.0
+                    },
+                    {
+                        "change_percentage": 3.0544379,
+                        "last": 94.47,
+                        "name": "AMD",
+                        "volume": 75973694.0
+                    },
+                    {
+                        "change_percentage": 0.088576,
+                        "last": 45.2,
+                        "name": "WORK",
+                        "volume": 67054250.0
+                    },
+                    {
+                        "change_percentage": -57.004784,
+                        "last": 0.8986,
+                        "name": "AVYA",
+                        "volume": 64097146.0
+                    },
+                    {
+                        "change_percentage": -38.219894,
+                        "last": 11.8,
+                        "name": "SPRT",
+                        "volume": 50179617.0
+                    },
+                    {
+                        "change_percentage": 0.99533397,
+                        "last": 181.63,
+                        "name": "NVDA",
+                        "volume": 42650656.0
+                    },
+                    {
+                        "change_percentage": 1.5665087,
+                        "last": 280.74,
+                        "name": "MSFT",
+                        "volume": 31726024.0
+                    },
+                    {
+                        "change_percentage": -3.0075133,
+                        "last": 34.83,
+                        "name": "SHOP",
+                        "volume": 31456904.0
+                    },
+                    {
+                        "change_percentage": 0.600606,
+                        "last": 23.45,
+                        "name": "UBER",
+                        "volume": 28923064.0
+                    }
+                ],
+                "name": "Technology"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -0.0684647,
+                        "last": 29.19,
+                        "name": "HTA",
+                        "volume": 64618075.0
+                    },
+                    {
+                        "change_percentage": 1.3254809,
+                        "last": 6.88,
+                        "name": "NLY",
+                        "volume": 39079298.0
+                    },
+                    {
+                        "change_percentage": -2.05607,
+                        "last": 31.44,
+                        "name": "WRI",
+                        "volume": 26456004.0
+                    },
+                    {
+                        "change_percentage": 1.1538444,
+                        "last": 34.19,
+                        "name": "VICI",
+                        "volume": 14397283.0
+                    },
+                    {
+                        "change_percentage": 0.31821766,
+                        "last": 12.61,
+                        "name": "AGNC",
+                        "volume": 13536414.0
+                    },
+                    {
+                        "change_percentage": 1.1436414,
+                        "last": 22.11,
+                        "name": "KIM",
+                        "volume": 8383507.0
+                    },
+                    {
+                        "change_percentage": 2.52366,
+                        "last": 6.5,
+                        "name": "CMO",
+                        "volume": 8306905.0
+                    },
+                    {
+                        "change_percentage": -0.795653,
+                        "last": 51.12,
+                        "name": "VER",
+                        "volume": 8151120.0
+                    },
+                    {
+                        "change_percentage": -0.55834943,
+                        "last": 17.81,
+                        "name": "HST",
+                        "volume": 7796478.0
+                    },
+                    {
+                        "change_percentage": 1.26624,
+                        "last": 30.39,
+                        "name": "VNO",
+                        "volume": 7723917.0
+                    }
+                ],
+                "name": "Real Estate"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": -2.0833395,
+                        "last": 2.82,
+                        "name": "ABEV",
+                        "volume": 50139040.0
+                    },
+                    {
+                        "change_percentage": -6.179923,
+                        "last": 138.91,
+                        "name": "PG",
+                        "volume": 18230240.0
+                    },
+                    {
+                        "change_percentage": 0.171715,
+                        "last": 64.17,
+                        "name": "KO",
+                        "volume": 13138415.0
+                    },
+                    {
+                        "change_percentage": -5.4263515,
+                        "last": 7.32,
+                        "name": "COTY",
+                        "volume": 12941334.0
+                    },
+                    {
+                        "change_percentage": -0.3181804,
+                        "last": 43.86,
+                        "name": "MO",
+                        "volume": 11507716.0
+                    },
+                    {
+                        "change_percentage": 1.77264,
+                        "last": 132.05,
+                        "name": "WMT",
+                        "volume": 10017415.0
+                    },
+                    {
+                        "change_percentage": -0.9679936,
+                        "last": 36.83,
+                        "name": "KHC",
+                        "volume": 9691858.0
+                    },
+                    {
+                        "change_percentage": 0.0,
+                        "last": 21.03,
+                        "name": "HMHC",
+                        "volume": 9430628.0
+                    },
+                    {
+                        "change_percentage": -7.692305,
+                        "last": 4.92,
+                        "name": "TAL",
+                        "volume": 7239230.0
+                    },
+                    {
+                        "change_percentage": 0.623381,
+                        "last": 38.74,
+                        "name": "KDP",
+                        "volume": 7068900.0
+                    }
+                ],
+                "name": "Consumer Defensive"
+            },
+            {
+                "children": [
+                    {
+                        "change_percentage": 10.3614645,
+                        "last": 134.95,
+                        "name": "AMZN",
+                        "volume": 147579682.0
+                    },
+                    {
+                        "change_percentage": 4.9285684,
+                        "last": 14.69,
+                        "name": "F",
+                        "volume": 92740555.0
+                    },
+                    {
+                        "change_percentage": -11.118846,
+                        "last": 89.37,
+                        "name": "BABA",
+                        "volume": 58555523.0
+                    },
+                    {
+                        "change_percentage": -0.43956,
+                        "last": 9.06,
+                        "name": "CCL",
+                        "volume": 40450654.0
+                    },
+                    {
+                        "change_percentage": 1.2313995,
+                        "last": 19.73,
+                        "name": "NIO",
+                        "volume": 36533249.0
+                    },
+                    {
+                        "change_percentage": -0.69018525,
+                        "last": 12.95,
+                        "name": "AMCR",
+                        "volume": 32598674.0
+                    },
+                    {
+                        "change_percentage": 5.784977,
+                        "last": 891.45,
+                        "name": "TSLA",
+                        "volume": 31264152.0
+                    },
+                    {
+                        "change_percentage": 0.330305,
+                        "last": 12.15,
+                        "name": "NCLH",
+                        "volume": 15801091.0
+                    },
+                    {
+                        "change_percentage": -14.9837,
+                        "last": 2.61,
+                        "name": "NAKD",
+                        "volume": 14904169.0
+                    },
+                    {
+                        "change_percentage": 1.45494,
+                        "last": 36.26,
+                        "name": "GM",
+                        "volume": 12949949.0
+                    }
+                ],
+                "name": "Consumer Cyclical"
+            }
+        ],
+        "updated": "01/08/2022 10:11:14"
+    },
+    "status": "success"
+}

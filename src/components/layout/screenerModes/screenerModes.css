@@ -12,6 +12,8 @@
 
 
 
+
 .screener-modes-bar {
-    width: 100%;
+    display: flex;
+    width: auto;
 }

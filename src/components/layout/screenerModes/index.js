@@ -26,27 +26,31 @@ import './screenerModes.css'
 
 const useStyles = makeStyles((theme) => ({
     tabsRoot: {
-        backgroundColor:'transparent',
+        backgroundColor:'#53a2a9',
+        borderRadius:'10px',
+        alignItems:'center',
         "& .MuiTab-root": {
-            color: "#a7a7a7",
-            backgroundColor:'#423942',
+            color: "#6d4053",
             borderRadius:'10px',
-            marginRight:'10px',
-            height:'15px',
-            fontSize:'15px',
+            height:'11px',
+            minHeight:'30px',
+            fontSize:'12px',
             padding:0,
             margin:0,
             '&.Mui-selected': {
                 color: '#53a2a9',
                 backgroundColor:'#6d4053',
-                height:'20px',
               },
+        },
+        "& .MuiTabs-indicator": {
+            display: "none"
         }
     },
     tab:{
         width:'120px',
     }
 }));
+
 
 
 const ScreenerModes = (props) => {
@@ -68,6 +72,7 @@ const ScreenerModes = (props) => {
         <div className='screener-modes-bar'>
             <Tabs
                 className={classes.tabsRoot}
+                style={{minHeight:"32px"}}
                 value={selected}
                 onChange={handleChange}
                 variant="scrollable"

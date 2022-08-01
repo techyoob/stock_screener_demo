@@ -13,12 +13,39 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color: #3a4552;
+    background: #3a4552;
+    background: linear-gradient(300deg, #2b333f 0%, #3d444d 35%, #222933 100%); 
     color:#a7a7a7;
     width: 100%;
     height: 100%;
     overflow: hidden;
 }
 
+
+/* .screener-menu-logo {
+    display: flex;
+    width: 100%;
+    height: 250px;
+    justify-content: center;
+    height: 18%;
+    padding-top: 20px;
+}
+ */
+
+/* 
+
+.screener-dashboard-view {
+    display: flex;
+    flex-direction: row;
+    background-color: #3a4552;
+    background: #3a4552;
+    background: linear-gradient(300deg, #2b333f 0%, #3d444d 35%, #222933 100%); 
+    color:#a7a7a7;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+} */
 
 .screener-dashboard-menu {
     display: flex;
@@ -51,6 +78,16 @@
     margin-top: 10px;
 }
 
+/* .screener-dashboard-page-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+} */
+
 
 
 
@@ -69,11 +106,8 @@
     flex-direction: column;
 }
 
-.fundamentals-body {
-}
 
-
-.fundamentals-classics-filter-options-bar {
+.fundamentals-feature-options-bar-container {
     display: flex;
     flex-direction: row-reverse;
     margin-top: 30px;
@@ -86,7 +120,7 @@
     overflow-x: auto;
 }
 
-.fundamentals-classics-filter-options::-webkit-scrollbar { 
+.fundamentals-feature-options-bar-container::-webkit-scrollbar { 
     display: none;  /* Chrome Safari */
 }
 
@@ -153,7 +187,7 @@
 
 
 
-.fundamentals-classics-list-container {
+.fundamentals-feature-body-container {
     height: 100%;
     width: 100%;
     overflow: hidden;
@@ -171,14 +205,15 @@
 ***************************************************/
 
 
-
+/* 
 .stock-watch-container {
     display: flex;
     align-items: center;
     flex-direction: column;
     width: 100%;
     height: 100%;
-}
+    background-color: yellow;
+} */
 
 .char-view-container {
     height: 100%;
